@@ -3,4 +3,4 @@
 - MABQ-Controller-01X2: MAB-Quadcopter - Controller
 
 ## 📄 Licese information
-This project uses multiple licenses. For full details, see [LICENSE-INFO.md](./LICENSE-INFO.md).
+This project uses multiple licenses. For full details, see [LICENSE-INFO.md](./_LICENSE-INFO.md).
