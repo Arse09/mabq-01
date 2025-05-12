@@ -4,3 +4,6 @@
 
 ## 📄 Licese information
 This project uses multiple licenses. For full details, see [LICENSE-INFO.md](./_LICENSE-INFO.md).
+
+---
+© 2025 Arse09
