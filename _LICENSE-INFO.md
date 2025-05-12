@@ -6,7 +6,7 @@ This project consists of two main components, each covered by a different open s
 
 ## 💻 Software License – MIT License
 
-All source code and software files (including Arduino/ESP32 code) are licensed under the **MIT License**.
+All source code and software files are licensed under the **MIT License**.
 
 📄 License file: [`LICENSE-SOFTWARE.md`](./LICENSE-SOFTWARE.md)  
 🔗 More about the MIT License: [opensource.org/licenses/MIT](https://opensource.org/licenses/MIT)
@@ -25,7 +25,7 @@ All hardware-related files — such as PCB designs, circuit diagrams, and 3D mod
 
 ## ℹ️ Additional Notes
 
-- Always check for additional license headers or files within specific folders. In case a file or folder includes its own license (e.g. a `LICENSE` file or license comment inside the code), that license takes precedence for that particular file or folder.
+- Always check for additional license headers or files within specific folders. In case a file or folder includes its own license (e.g. a `LICENSE` file or license comment inside the code), that license takes precedence for that particular file or folder. This includes software and hardware files.
 - If you’re unsure how to comply with these licenses, you can refer to their official documentation.
 
 ---
