@@ -11,10 +11,10 @@ This project uses multiple licenses. For full details, see [LICENSE-INFO.md](./_
 
 This project uses third-party libraries:
 
-- `WifiManager` by tzapu - [GitHub Repo](https://github.com/tzapu/WiFiManager]) 
-  License: The MIT License (MIT)
-  Copyright (c) 2015 tzapu
-  Included in `...`
+- `WifiManager` by tzapu - [GitHub Repo](https://github.com/tzapu/WiFiManager])  
+  License: The MIT License (MIT)  
+  Copyright (c) 2015 tzapu  
+  Included in `...`  
 
 ---
 © 2025 Arse09
