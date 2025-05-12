@@ -1,29 +1,37 @@
 # MABQ-01: Multi-purpose Arduino-Based Quadcopter – 2025
 
-Author: Arse09  
-Student at IES Siglo XXI (Spain)  
+**Author:** Arse09  
+**Started:** March 2025  
+**Finished:** In progress  
 
-> **MABQ-01** is my first complete hardware + software project: a modular, Arduino-based quadcopter system consisting of a drone and a custom controller.  
-> Developed and designed entirely as a learning and open-source initiative.  
-> **This project is currently a work in progress**.
+## 🚀 About MABQ-01
 
-## 📄 License information
+**MABQ-01** is my first project combining **C++**, **Arduino**, and **PCB design**.  
+It’s a custom Arduino-based quadcopter system, consisting of a drone and a dedicated controller.  
+This project pushed me to learn essential skills in electronics, the c++ language, and hardware development.
+
+Special thanks to my secondary school, **IES Siglo XXI** (Spain), for providing the resources, environment, and encouragement to carry out this project.  
+I’d also like to thank my programming and robotics teacher, **Maite Fano**, for her guidance and support throughout the process.
+
+Developed as a learning experience and shared as an open-source initiative.  
+
+---
+
+## 📄 License Information
+
 This project uses multiple licenses. For full details, see [LICENSE-INFO.md](./_LICENSE-INFO.md).
 
-## 🙏 Acknowledgments
-
-Special thanks to **IES Siglo XXI** (Spain) for providing the resources, environment, and motivation to make this project possible.  
-Also, I would like to thank my programming and robotics teacher, **Maite Fano**, for her guidance and support throughout the development of this project.
+---
 
 ## 📚 Third-Party Components
 
-This project uses third-party libraries:
+This project uses the following third-party library:
 
 - [`WiFiManager`](https://github.com/tzapu/WiFiManager) by [tzapu](https://github.com/tzapu)  
-  License: The MIT License (MIT)  
-  Copyright © 2015 tzapu  
-  Included in `mabqc/lib/WiFiManager/` (Placeholder)  
-
+  **License:** MIT License  
+  **Copyright:** © 2015 tzapu  
+  **Included in:** `mabqc/lib/WiFiManager/` (placeholder path)
 
 ---
+
 © 2025 Arse09
