@@ -11,7 +11,7 @@ This project uses multiple licenses. For full details, see [LICENSE-INFO.md](./_
 
 This project uses third-party libraries:
 
-- `WifiManager` by tzapu - [GitHub Repo]([https://github.com/adafruit/Adafruit_SSD1306](https://github.com/tzapu/WiFiManager))  
+- `WifiManager` by tzapu - [GitHub Repo](https://github.com/tzapu/WiFiManager]) 
   License: The MIT License (MIT)
   Copyright (c) 2015 tzapu
   Included in `...`
