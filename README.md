@@ -23,15 +23,4 @@ This project uses multiple licenses. For full details, see [LICENSE-INFO.md](./_
 
 ---
 
-## 📚 Third-Party Components
-
-This project uses the following third-party library:
-
-- [`WiFiManager`](https://github.com/tzapu/WiFiManager) by [tzapu](https://github.com/tzapu)  
-  **License:** MIT License  
-  **Copyright:** © 2015 tzapu  
-  **Included in:** `mabqc/lib/WiFiManager/` (placeholder path)
-
----
-
 © 2025 Arse09
