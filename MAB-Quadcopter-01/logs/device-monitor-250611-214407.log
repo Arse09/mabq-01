@@ -1,0 +1,1654 @@
+21:44:07.165 > Loop t1
+21:44:07.167 > Roll rate [º/s]:  -4.85  | Pitch rate [º/s]:  0.69  | Yaw rate [º/s]:  1.08
+21:44:07.217 > Loop t1
+21:44:07.220 > Roll rate [º/s]:  -4.87  | Pitch rate [º/s]:  0.70  | Yaw rate [º/s]:  0.95
+21:44:07.269 > Loop t1
+21:44:07.272 > Roll rate [º/s]:  -4.89  | Pitch rate [º/s]:  0.70  | Yaw rate [º/s]:  0.99
+21:44:07.321 > Loop t1
+21:44:07.324 > Roll rate [º/s]:  -4.89  | Pitch rate [º/s]:  0.61  | Yaw rate [º/s]:  1.11
+21:44:07.373 > Loop t1
+21:44:07.376 > Roll rate [º/s]:  -4.89  | Pitch rate [º/s]:  0.66  | Yaw rate [º/s]:  1.04
+21:44:07.425 > Loop t1
+21:44:07.428 > Roll rate [º/s]:  -4.82  | Pitch rate [º/s]:  0.63  | Yaw rate [º/s]:  1.05
+21:44:07.477 > Loop t1
+21:44:07.480 > Roll rate [º/s]:  -4.87  | Pitch rate [º/s]:  0.67  | Yaw rate [º/s]:  1.04
+21:44:07.529 > Loop t1
+21:44:07.532 > Roll rate [º/s]:  -4.87  | Pitch rate [º/s]:  0.67  | Yaw rate [º/s]:  0.99
+21:44:07.581 > Loop t1
+21:44:07.584 > Roll rate [º/s]:  -4.89  | Pitch rate [º/s]:  0.70  | Yaw rate [º/s]:  1.05
+21:44:07.633 > Loop t1
+21:44:07.636 > Roll rate [º/s]:  -4.95  | Pitch rate [º/s]:  0.67  | Yaw rate [º/s]:  1.02
+21:44:07.685 > Loop t1
+21:44:07.688 > Roll rate [º/s]:  -4.90  | Pitch rate [º/s]:  0.66  | Yaw rate [º/s]:  1.05
+21:44:07.737 > Loop t1
+21:44:07.740 > Roll rate [º/s]:  -4.84  | Pitch rate [º/s]:  0.67  | Yaw rate [º/s]:  0.99
+21:44:07.789 > Loop t1
+21:44:07.792 > Roll rate [º/s]:  -4.82  | Pitch rate [º/s]:  0.67  | Yaw rate [º/s]:  1.07
+21:44:07.841 > Loop t1
+21:44:07.844 > Roll rate [º/s]:  -4.85  | Pitch rate [º/s]:  0.72  | Yaw rate [º/s]:  1.07
+21:44:07.893 > Loop t1
+21:44:07.896 > Roll rate [º/s]:  -4.85  | Pitch rate [º/s]:  0.70  | Yaw rate [º/s]:  0.98
+21:44:07.945 > Loop t1
+21:44:07.948 > Roll rate [º/s]:  -4.89  | Pitch rate [º/s]:  0.70  | Yaw rate [º/s]:  1.02
+21:44:07.997 > Loop t1
+21:44:08.000 > Roll rate [º/s]:  -4.85  | Pitch rate [º/s]:  0.70  | Yaw rate [º/s]:  1.05
+21:44:08.049 > Loop t1
+21:44:08.052 > Roll rate [º/s]:  -4.85  | Pitch rate [º/s]:  0.66  | Yaw rate [º/s]:  1.02
+21:44:08.101 > Loop t1
+21:44:08.104 > Roll rate [º/s]:  -4.84  | Pitch rate [º/s]:  0.66  | Yaw rate [º/s]:  1.07
+21:44:08.153 > Loop t1
+21:44:08.156 > Roll rate [º/s]:  -4.84  | Pitch rate [º/s]:  0.64  | Yaw rate [º/s]:  1.05
+21:44:08.205 > Loop t1
+21:44:08.208 > Roll rate [º/s]:  -4.85  | Pitch rate [º/s]:  0.72  | Yaw rate [º/s]:  1.05
+21:44:08.257 > Loop t1
+21:44:08.260 > Roll rate [º/s]:  -4.89  | Pitch rate [º/s]:  0.72  | Yaw rate [º/s]:  0.99
+21:44:08.309 > Loop t1
+21:44:08.312 > Roll rate [º/s]:  -4.84  | Pitch rate [º/s]:  0.67  | Yaw rate [º/s]:  1.02
+21:44:08.361 > Loop t1
+21:44:08.364 > Roll rate [º/s]:  -4.85  | Pitch rate [º/s]:  0.61  | Yaw rate [º/s]:  1.07
+21:44:08.413 > Loop t1
+21:44:08.416 > Roll rate [º/s]:  -4.87  | Pitch rate [º/s]:  0.67  | Yaw rate [º/s]:  0.98
+21:44:08.465 > Loop t1
+21:44:08.468 > Roll rate [º/s]:  -4.87  | Pitch rate [º/s]:  0.69  | Yaw rate [º/s]:  1.02
+21:44:08.517 > Loop t1
+21:44:08.520 > Roll rate [º/s]:  -4.87  | Pitch rate [º/s]:  0.70  | Yaw rate [º/s]:  1.10
+21:44:08.569 > Loop t1
+21:44:08.572 > Roll rate [º/s]:  -4.84  | Pitch rate [º/s]:  0.69  | Yaw rate [º/s]:  0.98
+21:44:08.621 > Loop t1
+21:44:08.623 > Roll rate [º/s]:  -4.87  | Pitch rate [º/s]:  0.66  | Yaw rate [º/s]:  1.01
+21:44:08.673 > Loop t1
+21:44:08.675 > Roll rate [º/s]:  -4.87  | Pitch rate [º/s]:  0.70  | Yaw rate [º/s]:  1.10
+21:44:08.725 > Loop t1
+21:44:08.727 > Roll rate [º/s]:  -4.87  | Pitch rate [º/s]:  0.67  | Yaw rate [º/s]:  0.99
+21:44:08.777 > Loop t1
+21:44:08.780 > Roll rate [º/s]:  -4.89  | Pitch rate [º/s]:  0.64  | Yaw rate [º/s]:  1.01
+21:44:08.829 > Loop t1
+21:44:08.831 > Roll rate [º/s]:  -4.79  | Pitch rate [º/s]:  0.70  | Yaw rate [º/s]:  1.08
+21:44:08.881 > Loop t1
+21:44:08.883 > Roll rate [º/s]:  -4.82  | Pitch rate [º/s]:  0.70  | Yaw rate [º/s]:  1.01
+21:44:08.933 > Loop t1
+21:44:08.935 > Roll rate [º/s]:  -4.92  | Pitch rate [º/s]:  0.69  | Yaw rate [º/s]:  1.04
+21:44:08.985 > Loop t1
+21:44:08.987 > Roll rate [º/s]:  -4.89  | Pitch rate [º/s]:  0.72  | Yaw rate [º/s]:  0.99
+21:44:09.037 > Loop t1
+21:44:09.039 > Roll rate [º/s]:  -4.85  | Pitch rate [º/s]:  0.63  | Yaw rate [º/s]:  0.96
+21:44:09.089 > Loop t1
+21:44:09.091 > Roll rate [º/s]:  -4.84  | Pitch rate [º/s]:  0.69  | Yaw rate [º/s]:  1.10
+21:44:09.141 > Loop t1
+21:44:09.143 > Roll rate [º/s]:  -4.84  | Pitch rate [º/s]:  0.70  | Yaw rate [º/s]:  1.02
+21:44:09.193 > Loop t1
+21:44:09.195 > Roll rate [º/s]:  -4.85  | Pitch rate [º/s]:  0.72  | Yaw rate [º/s]:  0.98
+21:44:09.245 > Loop t1
+21:44:09.247 > Roll rate [º/s]:  -4.85  | Pitch rate [º/s]:  0.70  | Yaw rate [º/s]:  1.08
+21:44:09.297 > Loop t1
+21:44:09.299 > Roll rate [º/s]:  -4.90  | Pitch rate [º/s]:  0.67  | Yaw rate [º/s]:  0.96
+21:44:09.349 > Loop t1
+21:44:09.351 > Roll rate [º/s]:  -4.89  | Pitch rate [º/s]:  0.63  | Yaw rate [º/s]:  0.98
+21:44:09.401 > Loop t1
+21:44:09.403 > Roll rate [º/s]:  -4.87  | Pitch rate [º/s]:  0.64  | Yaw rate [º/s]:  1.16
+21:44:09.453 > Loop t1
+21:44:09.455 > Roll rate [º/s]:  -4.87  | Pitch rate [º/s]:  0.64  | Yaw rate [º/s]:  1.05
+21:44:09.505 > Loop t1
+21:44:09.507 > Roll rate [º/s]:  -4.85  | Pitch rate [º/s]:  0.69  | Yaw rate [º/s]:  0.92
+21:44:09.557 > Loop t1
+21:44:09.559 > Roll rate [º/s]:  -4.90  | Pitch rate [º/s]:  0.70  | Yaw rate [º/s]:  1.11
+21:44:09.609 > Loop t1
+21:44:09.611 > Roll rate [º/s]:  -4.90  | Pitch rate [º/s]:  0.69  | Yaw rate [º/s]:  1.07
+21:44:09.661 > Loop t1
+21:44:09.663 > Roll rate [º/s]:  -4.87  | Pitch rate [º/s]:  0.70  | Yaw rate [º/s]:  0.92
+21:44:09.713 > Loop t1
+21:44:09.715 > Roll rate [º/s]:  -4.89  | Pitch rate [º/s]:  0.64  | Yaw rate [º/s]:  1.05
+21:44:09.765 > Loop t1
+21:44:09.767 > Roll rate [º/s]:  -4.87  | Pitch rate [º/s]:  0.67  | Yaw rate [º/s]:  1.05
+21:44:09.817 > Loop t1
+21:44:09.819 > Roll rate [º/s]:  -4.85  | Pitch rate [º/s]:  0.69  | Yaw rate [º/s]:  0.96
+21:44:09.869 > Loop t1
+21:44:09.871 > Roll rate [º/s]:  -4.84  | Pitch rate [º/s]:  0.67  | Yaw rate [º/s]:  1.10
+21:44:09.921 > Loop t1
+21:44:09.923 > Roll rate [º/s]:  -4.89  | Pitch rate [º/s]:  0.72  | Yaw rate [º/s]:  1.02
+21:44:09.973 > Loop t1
+21:44:09.975 > Roll rate [º/s]:  -4.84  | Pitch rate [º/s]:  0.67  | Yaw rate [º/s]:  0.99
+21:44:10.025 > Loop t1
+21:44:10.027 > Roll rate [º/s]:  -4.85  | Pitch rate [º/s]:  0.72  | Yaw rate [º/s]:  1.08
+21:44:10.077 > Loop t1
+21:44:10.079 > Roll rate [º/s]:  -4.87  | Pitch rate [º/s]:  0.70  | Yaw rate [º/s]:  0.96
+21:44:10.129 > Loop t1
+21:44:10.131 > Roll rate [º/s]:  -4.84  | Pitch rate [º/s]:  0.66  | Yaw rate [º/s]:  0.92
+21:44:10.181 > Loop t1
+21:44:10.183 > Roll rate [º/s]:  -4.87  | Pitch rate [º/s]:  0.66  | Yaw rate [º/s]:  1.10
+21:44:10.233 > Loop t1
+21:44:10.235 > Roll rate [º/s]:  -4.89  | Pitch rate [º/s]:  0.66  | Yaw rate [º/s]:  0.99
+21:44:10.285 > Loop t1
+21:44:10.287 > Roll rate [º/s]:  -4.84  | Pitch rate [º/s]:  0.69  | Yaw rate [º/s]:  0.99
+21:44:10.337 > Loop t1
+21:44:10.339 > Roll rate [º/s]:  -4.89  | Pitch rate [º/s]:  0.66  | Yaw rate [º/s]:  1.21
+21:44:10.389 > Loop t1
+21:44:10.391 > Roll rate [º/s]:  -4.82  | Pitch rate [º/s]:  0.69  | Yaw rate [º/s]:  0.90
+21:44:10.441 > Loop t1
+21:44:10.443 > Roll rate [º/s]:  -4.85  | Pitch rate [º/s]:  0.69  | Yaw rate [º/s]:  1.01
+21:44:10.493 > Loop t1
+21:44:10.495 > Roll rate [º/s]:  -4.84  | Pitch rate [º/s]:  0.69  | Yaw rate [º/s]:  1.19
+21:44:10.545 > Loop t1
+21:44:10.547 > Roll rate [º/s]:  -4.90  | Pitch rate [º/s]:  0.69  | Yaw rate [º/s]:  0.89
+21:44:10.597 > Loop t1
+21:44:10.599 > Roll rate [º/s]:  -4.85  | Pitch rate [º/s]:  0.69  | Yaw rate [º/s]:  0.93
+21:44:10.649 > Loop t1
+21:44:10.651 > Roll rate [º/s]:  -4.87  | Pitch rate [º/s]:  0.72  | Yaw rate [º/s]:  1.21
+21:44:10.701 > Loop t1
+21:44:10.703 > Roll rate [º/s]:  -4.87  | Pitch rate [º/s]:  0.69  | Yaw rate [º/s]:  0.99
+21:44:10.753 > Loop t1
+21:44:10.755 > Roll rate [º/s]:  -4.85  | Pitch rate [º/s]:  0.70  | Yaw rate [º/s]:  0.93
+21:44:10.805 > Loop t1
+21:44:10.807 > Roll rate [º/s]:  -4.87  | Pitch rate [º/s]:  0.70  | Yaw rate [º/s]:  1.08
+21:44:10.857 > Loop t1
+21:44:10.859 > Roll rate [º/s]:  -4.84  | Pitch rate [º/s]:  0.72  | Yaw rate [º/s]:  1.04
+21:44:10.909 > Loop t1
+21:44:10.911 > Roll rate [º/s]:  -4.90  | Pitch rate [º/s]:  0.64  | Yaw rate [º/s]:  0.93
+21:44:10.961 > Loop t1
+21:44:10.963 > Roll rate [º/s]:  -4.87  | Pitch rate [º/s]:  0.64  | Yaw rate [º/s]:  1.02
+21:44:11.013 > Loop t1
+21:44:11.015 > Roll rate [º/s]:  -4.81  | Pitch rate [º/s]:  0.69  | Yaw rate [º/s]:  1.13
+21:44:11.065 > Loop t1
+21:44:11.067 > Roll rate [º/s]:  -4.84  | Pitch rate [º/s]:  0.70  | Yaw rate [º/s]:  1.08
+21:44:11.117 > Loop t1
+21:44:11.119 > Roll rate [º/s]:  -4.84  | Pitch rate [º/s]:  0.73  | Yaw rate [º/s]:  0.95
+21:44:11.169 > Loop t1
+21:44:11.171 > Roll rate [º/s]:  -4.92  | Pitch rate [º/s]:  0.69  | Yaw rate [º/s]:  0.93
+21:44:11.221 > Loop t1
+21:44:11.223 > Roll rate [º/s]:  -4.92  | Pitch rate [º/s]:  0.67  | Yaw rate [º/s]:  1.10
+21:44:11.273 > Loop t1
+21:44:11.275 > Roll rate [º/s]:  -4.85  | Pitch rate [º/s]:  0.61  | Yaw rate [º/s]:  1.05
+21:44:11.325 > Loop t1
+21:44:11.327 > Roll rate [º/s]:  -4.85  | Pitch rate [º/s]:  0.66  | Yaw rate [º/s]:  1.02
+21:44:11.377 > Loop t1
+21:44:11.379 > Roll rate [º/s]:  -4.82  | Pitch rate [º/s]:  0.64  | Yaw rate [º/s]:  1.05
+21:44:11.429 > Loop t1
+21:44:11.431 > Roll rate [º/s]:  -4.87  | Pitch rate [º/s]:  0.69  | Yaw rate [º/s]:  1.04
+21:44:11.481 > Loop t1
+21:44:11.483 > Roll rate [º/s]:  -4.89  | Pitch rate [º/s]:  0.67  | Yaw rate [º/s]:  1.05
+21:44:11.533 > Loop t1
+21:44:11.535 > Roll rate [º/s]:  -4.85  | Pitch rate [º/s]:  0.70  | Yaw rate [º/s]:  1.10
+21:44:11.585 > Loop t1
+21:44:11.587 > Roll rate [º/s]:  -4.87  | Pitch rate [º/s]:  0.67  | Yaw rate [º/s]:  0.96
+21:44:11.637 > Loop t1
+21:44:11.639 > Roll rate [º/s]:  -4.84  | Pitch rate [º/s]:  0.67  | Yaw rate [º/s]:  0.98
+21:44:11.689 > Loop t1
+21:44:11.691 > Roll rate [º/s]:  -4.79  | Pitch rate [º/s]:  0.64  | Yaw rate [º/s]:  1.16
+21:44:11.742 > Loop t1
+21:44:11.745 > Roll rate [º/s]:  -4.87  | Pitch rate [º/s]:  0.64  | Yaw rate [º/s]:  1.02
+21:44:11.793 > Loop t1
+21:44:11.795 > Roll rate [º/s]:  -4.87  | Pitch rate [º/s]:  0.67  | Yaw rate [º/s]:  0.93
+21:44:11.845 > Loop t1
+21:44:11.847 > Roll rate [º/s]:  -4.89  | Pitch rate [º/s]:  0.70  | Yaw rate [º/s]:  1.10
+21:44:11.897 > Loop t1
+21:44:11.899 > Roll rate [º/s]:  -4.85  | Pitch rate [º/s]:  0.72  | Yaw rate [º/s]:  0.99
+21:44:11.949 > Loop t1
+21:44:11.951 > Roll rate [º/s]:  -4.84  | Pitch rate [º/s]:  0.67  | Yaw rate [º/s]:  0.89
+21:44:12.001 > Loop t1
+21:44:12.003 > Roll rate [º/s]:  -4.81  | Pitch rate [º/s]:  0.69  | Yaw rate [º/s]:  1.15
+21:44:12.053 > Loop t1
+21:44:12.055 > Roll rate [º/s]:  -4.84  | Pitch rate [º/s]:  0.66  | Yaw rate [º/s]:  0.96
+21:44:12.105 > Loop t1
+21:44:12.107 > Roll rate [º/s]:  -4.90  | Pitch rate [º/s]:  0.66  | Yaw rate [º/s]:  1.04
+21:44:12.157 > Loop t1
+21:44:12.159 > Roll rate [º/s]:  -4.84  | Pitch rate [º/s]:  0.69  | Yaw rate [º/s]:  1.13
+21:44:12.209 > Loop t1
+21:44:12.211 > Roll rate [º/s]:  -4.89  | Pitch rate [º/s]:  0.69  | Yaw rate [º/s]:  0.92
+21:44:12.261 > Loop t1
+21:44:12.263 > Roll rate [º/s]:  -4.90  | Pitch rate [º/s]:  0.70  | Yaw rate [º/s]:  1.01
+21:44:12.313 > Loop t1
+21:44:12.315 > Roll rate [º/s]:  -4.84  | Pitch rate [º/s]:  0.69  | Yaw rate [º/s]:  1.10
+21:44:12.365 > Loop t1
+21:44:12.367 > Roll rate [º/s]:  -4.82  | Pitch rate [º/s]:  0.69  | Yaw rate [º/s]:  0.93
+21:44:12.417 > Loop t1
+21:44:12.419 > Roll rate [º/s]:  -4.82  | Pitch rate [º/s]:  0.67  | Yaw rate [º/s]:  1.04
+21:44:12.469 > Loop t1
+21:44:12.471 > Roll rate [º/s]:  -4.82  | Pitch rate [º/s]:  0.69  | Yaw rate [º/s]:  1.11
+21:44:12.521 > Loop t1
+21:44:12.523 > Roll rate [º/s]:  -4.87  | Pitch rate [º/s]:  0.69  | Yaw rate [º/s]:  0.96
+21:44:12.573 > Loop t1
+21:44:12.575 > Roll rate [º/s]:  -4.82  | Pitch rate [º/s]:  0.67  | Yaw rate [º/s]:  0.96
+21:44:12.625 > Loop t1
+21:44:12.627 > Roll rate [º/s]:  -4.85  | Pitch rate [º/s]:  0.67  | Yaw rate [º/s]:  1.11
+21:44:12.677 > Loop t1
+21:44:12.679 > Roll rate [º/s]:  -4.85  | Pitch rate [º/s]:  0.64  | Yaw rate [º/s]:  0.96
+21:44:12.729 > Loop t1
+21:44:12.731 > Roll rate [º/s]:  -4.87  | Pitch rate [º/s]:  0.64  | Yaw rate [º/s]:  0.98
+21:44:12.781 > Loop t1
+21:44:12.783 > Roll rate [º/s]:  -4.85  | Pitch rate [º/s]:  0.67  | Yaw rate [º/s]:  1.15
+21:44:12.833 > Loop t1
+21:44:12.835 > Roll rate [º/s]:  -4.87  | Pitch rate [º/s]:  0.70  | Yaw rate [º/s]:  0.98
+21:44:12.888 > Loop t1
+21:44:12.888 > Roll rate [º/s]:  -4.87  | Pitch rate [º/s]:  0.66  | Yaw rate [º/s]:  1.01
+21:44:12.937 > Loop t1
+21:44:12.940 > Roll rate [º/s]:  -4.87  | Pitch rate [º/s]:  0.66  | Yaw rate [º/s]:  1.13
+21:44:12.989 > Loop t1
+21:44:12.991 > Roll rate [º/s]:  -4.84  | Pitch rate [º/s]:  0.67  | Yaw rate [º/s]:  0.95
+21:44:13.041 > Loop t1
+21:44:13.044 > Roll rate [º/s]:  -4.84  | Pitch rate [º/s]:  0.69  | Yaw rate [º/s]:  0.99
+21:44:13.093 > Loop t1
+21:44:13.095 > Roll rate [º/s]:  -4.84  | Pitch rate [º/s]:  0.67  | Yaw rate [º/s]:  1.11
+21:44:13.145 > Loop t1
+21:44:13.148 > Roll rate [º/s]:  -4.87  | Pitch rate [º/s]:  0.69  | Yaw rate [º/s]:  0.95
+21:44:13.199 > Loop t1
+21:44:13.200 > Roll rate [º/s]:  -4.90  | Pitch rate [º/s]:  0.69  | Yaw rate [º/s]:  0.98
+21:44:13.249 > Loop t1
+21:44:13.251 > Roll rate [º/s]:  -4.89  | Pitch rate [º/s]:  0.69  | Yaw rate [º/s]:  1.08
+21:44:13.301 > Loop t1
+21:44:13.303 > Roll rate [º/s]:  -4.85  | Pitch rate [º/s]:  0.69  | Yaw rate [º/s]:  0.96
+21:44:13.353 > Loop t1
+21:44:13.355 > Roll rate [º/s]:  -4.84  | Pitch rate [º/s]:  0.66  | Yaw rate [º/s]:  1.01
+21:44:13.405 > Loop t1
+21:44:13.407 > Roll rate [º/s]:  -4.89  | Pitch rate [º/s]:  0.72  | Yaw rate [º/s]:  1.08
+21:44:13.457 > Loop t1
+21:44:13.459 > Roll rate [º/s]:  -4.89  | Pitch rate [º/s]:  0.70  | Yaw rate [º/s]:  1.01
+21:44:13.509 > Loop t1
+21:44:13.511 > Roll rate [º/s]:  -4.87  | Pitch rate [º/s]:  0.69  | Yaw rate [º/s]:  1.04
+21:44:13.561 > Loop t1
+21:44:13.563 > Roll rate [º/s]:  -4.82  | Pitch rate [º/s]:  0.64  | Yaw rate [º/s]:  1.02
+21:44:13.613 > Loop t1
+21:44:13.615 > Roll rate [º/s]:  -4.87  | Pitch rate [º/s]:  0.64  | Yaw rate [º/s]:  0.99
+21:44:13.665 > Loop t1
+21:44:13.667 > Roll rate [º/s]:  -4.87  | Pitch rate [º/s]:  0.63  | Yaw rate [º/s]:  1.04
+21:44:13.717 > Loop t1
+21:44:13.719 > Roll rate [º/s]:  -4.87  | Pitch rate [º/s]:  0.69  | Yaw rate [º/s]:  1.07
+21:44:13.769 > Loop t1
+21:44:13.771 > Roll rate [º/s]:  -4.84  | Pitch rate [º/s]:  0.64  | Yaw rate [º/s]:  0.96
+21:44:13.821 > Loop t1
+21:44:13.823 > Roll rate [º/s]:  -4.85  | Pitch rate [º/s]:  0.70  | Yaw rate [º/s]:  1.02
+21:44:13.873 > Loop t1
+21:44:13.875 > Roll rate [º/s]:  -4.87  | Pitch rate [º/s]:  0.63  | Yaw rate [º/s]:  1.07
+21:44:13.925 > Loop t1
+21:44:13.927 > Roll rate [º/s]:  -4.85  | Pitch rate [º/s]:  0.72  | Yaw rate [º/s]:  1.02
+21:44:13.977 > Loop t1
+21:44:13.979 > Roll rate [º/s]:  -4.84  | Pitch rate [º/s]:  0.70  | Yaw rate [º/s]:  1.07
+21:44:14.029 > Loop t1
+21:44:14.031 > Roll rate [º/s]:  -4.81  | Pitch rate [º/s]:  0.72  | Yaw rate [º/s]:  1.02
+21:44:14.081 > Loop t1
+21:44:14.083 > Roll rate [º/s]:  -4.84  | Pitch rate [º/s]:  0.67  | Yaw rate [º/s]:  1.01
+21:44:14.133 > Loop t1
+21:44:14.135 > Roll rate [º/s]:  -4.85  | Pitch rate [º/s]:  0.70  | Yaw rate [º/s]:  1.07
+21:44:14.185 > Loop t1
+21:44:14.187 > Roll rate [º/s]:  -4.87  | Pitch rate [º/s]:  0.69  | Yaw rate [º/s]:  0.98
+21:44:14.237 > Loop t1
+21:44:14.239 > Roll rate [º/s]:  -4.87  | Pitch rate [º/s]:  0.72  | Yaw rate [º/s]:  1.01
+21:44:14.289 > Loop t1
+21:44:14.291 > Roll rate [º/s]:  -4.87  | Pitch rate [º/s]:  0.73  | Yaw rate [º/s]:  1.05
+21:44:14.341 > Loop t1
+21:44:14.343 > Roll rate [º/s]:  -4.87  | Pitch rate [º/s]:  0.73  | Yaw rate [º/s]:  1.04
+21:44:14.393 > Loop t1
+21:44:14.395 > Roll rate [º/s]:  -4.87  | Pitch rate [º/s]:  0.69  | Yaw rate [º/s]:  1.01
+21:44:14.445 > Loop t1
+21:44:14.447 > Roll rate [º/s]:  -4.87  | Pitch rate [º/s]:  0.70  | Yaw rate [º/s]:  1.04
+21:44:14.497 > Loop t1
+21:44:14.499 > Roll rate [º/s]:  -4.85  | Pitch rate [º/s]:  0.66  | Yaw rate [º/s]:  1.05
+21:44:14.549 > Loop t1
+21:44:14.551 > Roll rate [º/s]:  -4.82  | Pitch rate [º/s]:  0.69  | Yaw rate [º/s]:  0.99
+21:44:14.601 > Loop t1
+21:44:14.603 > Roll rate [º/s]:  -4.85  | Pitch rate [º/s]:  0.70  | Yaw rate [º/s]:  1.02
+21:44:14.653 > Loop t1
+21:44:14.655 > Roll rate [º/s]:  -4.90  | Pitch rate [º/s]:  0.69  | Yaw rate [º/s]:  1.01
+21:44:14.705 > Loop t1
+21:44:14.707 > Roll rate [º/s]:  -4.87  | Pitch rate [º/s]:  0.67  | Yaw rate [º/s]:  1.01
+21:44:14.757 > Loop t1
+21:44:14.759 > Roll rate [º/s]:  -4.84  | Pitch rate [º/s]:  0.69  | Yaw rate [º/s]:  1.07
+21:44:14.809 > Loop t1
+21:44:14.811 > Roll rate [º/s]:  -4.85  | Pitch rate [º/s]:  0.67  | Yaw rate [º/s]:  1.01
+21:44:14.861 > Loop t1
+21:44:14.863 > Roll rate [º/s]:  -4.85  | Pitch rate [º/s]:  0.72  | Yaw rate [º/s]:  1.02
+21:44:14.913 > Loop t1
+21:44:14.915 > Roll rate [º/s]:  -4.84  | Pitch rate [º/s]:  0.69  | Yaw rate [º/s]:  1.05
+21:44:14.965 > Loop t1
+21:44:14.967 > Roll rate [º/s]:  -4.87  | Pitch rate [º/s]:  0.70  | Yaw rate [º/s]:  0.98
+21:44:15.017 > Loop t1
+21:44:15.019 > Roll rate [º/s]:  -4.85  | Pitch rate [º/s]:  0.66  | Yaw rate [º/s]:  1.05
+21:44:15.069 > Loop t1
+21:44:15.071 > Roll rate [º/s]:  -4.85  | Pitch rate [º/s]:  0.72  | Yaw rate [º/s]:  1.07
+21:44:15.121 > Loop t1
+21:44:15.123 > Roll rate [º/s]:  -4.85  | Pitch rate [º/s]:  0.67  | Yaw rate [º/s]:  1.02
+21:44:15.173 > Loop t1
+21:44:15.175 > Roll rate [º/s]:  -4.84  | Pitch rate [º/s]:  0.67  | Yaw rate [º/s]:  0.92
+21:44:15.225 > Loop t1
+21:44:15.227 > Roll rate [º/s]:  -4.90  | Pitch rate [º/s]:  0.69  | Yaw rate [º/s]:  1.10
+21:44:15.277 > Loop t1
+21:44:15.279 > Roll rate [º/s]:  -4.89  | Pitch rate [º/s]:  0.72  | Yaw rate [º/s]:  1.05
+21:44:15.329 > Loop t1
+21:44:15.331 > Roll rate [º/s]:  -4.89  | Pitch rate [º/s]:  0.66  | Yaw rate [º/s]:  0.92
+21:44:15.381 > Loop t1
+21:44:15.383 > Roll rate [º/s]:  -4.87  | Pitch rate [º/s]:  0.67  | Yaw rate [º/s]:  1.02
+21:44:15.433 > Loop t1
+21:44:15.435 > Roll rate [º/s]:  -4.85  | Pitch rate [º/s]:  0.70  | Yaw rate [º/s]:  1.13
+21:44:15.485 > Loop t1
+21:44:15.487 > Roll rate [º/s]:  -4.85  | Pitch rate [º/s]:  0.64  | Yaw rate [º/s]:  1.05
+21:44:15.537 > Loop t1
+21:44:15.539 > Roll rate [º/s]:  -4.84  | Pitch rate [º/s]:  0.70  | Yaw rate [º/s]:  1.01
+21:44:15.589 > Loop t1
+21:44:15.591 > Roll rate [º/s]:  -4.84  | Pitch rate [º/s]:  0.66  | Yaw rate [º/s]:  1.05
+21:44:15.641 > Loop t1
+21:44:15.643 > Roll rate [º/s]:  -4.84  | Pitch rate [º/s]:  0.70  | Yaw rate [º/s]:  1.04
+21:44:15.693 > Loop t1
+21:44:15.695 > Roll rate [º/s]:  -4.84  | Pitch rate [º/s]:  0.67  | Yaw rate [º/s]:  0.99
+21:44:15.745 > Loop t1
+21:44:15.747 > Roll rate [º/s]:  -4.87  | Pitch rate [º/s]:  0.66  | Yaw rate [º/s]:  0.98
+21:44:15.797 > Loop t1
+21:44:15.799 > Roll rate [º/s]:  -4.87  | Pitch rate [º/s]:  0.67  | Yaw rate [º/s]:  1.01
+21:44:15.849 > Loop t1
+21:44:15.851 > Roll rate [º/s]:  -4.87  | Pitch rate [º/s]:  0.69  | Yaw rate [º/s]:  1.04
+21:44:15.901 > Loop t1
+21:44:15.903 > Roll rate [º/s]:  -4.89  | Pitch rate [º/s]:  0.73  | Yaw rate [º/s]:  1.05
+21:44:15.953 > Loop t1
+21:44:15.955 > Roll rate [º/s]:  -4.89  | Pitch rate [º/s]:  0.66  | Yaw rate [º/s]:  1.02
+21:44:16.005 > Loop t1
+21:44:16.007 > Roll rate [º/s]:  -4.85  | Pitch rate [º/s]:  0.67  | Yaw rate [º/s]:  1.02
+21:44:16.057 > Loop t1
+21:44:16.059 > Roll rate [º/s]:  -4.82  | Pitch rate [º/s]:  0.70  | Yaw rate [º/s]:  1.10
+21:44:16.109 > Loop t1
+21:44:16.111 > Roll rate [º/s]:  -4.85  | Pitch rate [º/s]:  0.69  | Yaw rate [º/s]:  1.04
+21:44:16.161 > Loop t1
+21:44:16.163 > Roll rate [º/s]:  -4.84  | Pitch rate [º/s]:  0.73  | Yaw rate [º/s]:  1.02
+21:44:16.213 > Loop t1
+21:44:16.215 > Roll rate [º/s]:  -4.82  | Pitch rate [º/s]:  0.67  | Yaw rate [º/s]:  1.05
+21:44:16.265 > Loop t1
+21:44:16.267 > Roll rate [º/s]:  -4.81  | Pitch rate [º/s]:  0.72  | Yaw rate [º/s]:  1.04
+21:44:16.317 > Loop t1
+21:44:16.319 > Roll rate [º/s]:  -4.85  | Pitch rate [º/s]:  0.72  | Yaw rate [º/s]:  1.02
+21:44:16.369 > Loop t1
+21:44:16.371 > Roll rate [º/s]:  -4.84  | Pitch rate [º/s]:  0.66  | Yaw rate [º/s]:  1.02
+21:44:16.421 > Loop t1
+21:44:16.423 > Roll rate [º/s]:  -4.87  | Pitch rate [º/s]:  0.61  | Yaw rate [º/s]:  1.05
+21:44:16.473 > Loop t1
+21:44:16.475 > Roll rate [º/s]:  -4.89  | Pitch rate [º/s]:  0.67  | Yaw rate [º/s]:  1.04
+21:44:16.525 > Loop t1
+21:44:16.527 > Roll rate [º/s]:  -4.84  | Pitch rate [º/s]:  0.72  | Yaw rate [º/s]:  1.04
+21:44:16.577 > Loop t1
+21:44:16.579 > Roll rate [º/s]:  -4.90  | Pitch rate [º/s]:  0.72  | Yaw rate [º/s]:  1.05
+21:44:16.629 > Loop t1
+21:44:16.631 > Roll rate [º/s]:  -4.87  | Pitch rate [º/s]:  0.67  | Yaw rate [º/s]:  1.04
+21:44:16.681 > Loop t1
+21:44:16.683 > Roll rate [º/s]:  -4.87  | Pitch rate [º/s]:  0.70  | Yaw rate [º/s]:  1.07
+21:44:16.733 > Loop t1
+21:44:16.735 > Roll rate [º/s]:  -4.89  | Pitch rate [º/s]:  0.69  | Yaw rate [º/s]:  1.05
+21:44:16.785 > Loop t1
+21:44:16.787 > Roll rate [º/s]:  -4.89  | Pitch rate [º/s]:  0.64  | Yaw rate [º/s]:  0.92
+21:44:16.837 > Loop t1
+21:44:16.839 > Roll rate [º/s]:  -4.85  | Pitch rate [º/s]:  0.64  | Yaw rate [º/s]:  0.95
+21:44:16.889 > Loop t1
+21:44:16.891 > Roll rate [º/s]:  -4.81  | Pitch rate [º/s]:  0.63  | Yaw rate [º/s]:  1.15
+21:44:16.941 > Loop t1
+21:44:16.943 > Roll rate [º/s]:  -4.76  | Pitch rate [º/s]:  0.73  | Yaw rate [º/s]:  1.05
+21:44:16.993 > Loop t1
+21:44:16.995 > Roll rate [º/s]:  -4.82  | Pitch rate [º/s]:  0.72  | Yaw rate [º/s]:  0.98
+21:44:17.045 > Loop t1
+21:44:17.047 > Roll rate [º/s]:  -4.92  | Pitch rate [º/s]:  0.67  | Yaw rate [º/s]:  1.04
+21:44:17.097 > Loop t1
+21:44:17.099 > Roll rate [º/s]:  -4.99  | Pitch rate [º/s]:  0.67  | Yaw rate [º/s]:  0.93
+21:44:17.149 > Loop t1
+21:44:17.151 > Roll rate [º/s]:  -4.85  | Pitch rate [º/s]:  0.61  | Yaw rate [º/s]:  0.92
+21:44:17.201 > Loop t1
+21:44:17.203 > Roll rate [º/s]:  -4.85  | Pitch rate [º/s]:  0.67  | Yaw rate [º/s]:  1.15
+21:44:17.253 > Loop t1
+21:44:17.255 > Roll rate [º/s]:  -4.81  | Pitch rate [º/s]:  0.70  | Yaw rate [º/s]:  1.05
+21:44:17.305 > Loop t1
+21:44:17.307 > Roll rate [º/s]:  -4.81  | Pitch rate [º/s]:  0.69  | Yaw rate [º/s]:  0.98
+21:44:17.357 > Loop t1
+21:44:17.359 > Roll rate [º/s]:  -4.89  | Pitch rate [º/s]:  0.72  | Yaw rate [º/s]:  1.11
+21:44:17.409 > Loop t1
+21:44:17.411 > Roll rate [º/s]:  -4.90  | Pitch rate [º/s]:  0.73  | Yaw rate [º/s]:  0.99
+21:44:17.461 > Loop t1
+21:44:17.463 > Roll rate [º/s]:  -4.89  | Pitch rate [º/s]:  0.63  | Yaw rate [º/s]:  0.93
+21:44:17.513 > Loop t1
+21:44:17.515 > Roll rate [º/s]:  -4.87  | Pitch rate [º/s]:  0.64  | Yaw rate [º/s]:  1.08
+21:44:17.565 > Loop t1
+21:44:17.567 > Roll rate [º/s]:  -4.85  | Pitch rate [º/s]:  0.66  | Yaw rate [º/s]:  1.04
+21:44:17.617 > Loop t1
+21:44:17.619 > Roll rate [º/s]:  -4.85  | Pitch rate [º/s]:  0.69  | Yaw rate [º/s]:  0.98
+21:44:17.669 > Loop t1
+21:44:17.671 > Roll rate [º/s]:  -4.87  | Pitch rate [º/s]:  0.69  | Yaw rate [º/s]:  1.10
+21:44:17.721 > Loop t1
+21:44:17.723 > Roll rate [º/s]:  -4.89  | Pitch rate [º/s]:  0.72  | Yaw rate [º/s]:  1.02
+21:44:17.773 > Loop t1
+21:44:17.775 > Roll rate [º/s]:  -4.87  | Pitch rate [º/s]:  0.67  | Yaw rate [º/s]:  0.99
+21:44:17.825 > Loop t1
+21:44:17.827 > Roll rate [º/s]:  -4.85  | Pitch rate [º/s]:  0.64  | Yaw rate [º/s]:  1.11
+21:44:17.878 > Loop t1
+21:44:17.879 > Roll rate [º/s]:  -4.82  | Pitch rate [º/s]:  0.67  | Yaw rate [º/s]:  1.02
+21:44:17.929 > Loop t1
+21:44:17.934 > Roll rate [º/s]:  -4.84  | Pitch rate [º/s]:  0.67  | Yaw rate [º/s]:  0.98
+21:44:17.981 > Loop t1
+21:44:17.983 > Roll rate [º/s]:  -4.85  | Pitch rate [º/s]:  0.67  | Yaw rate [º/s]:  1.10
+21:44:18.033 > Loop t1
+21:44:18.035 > Roll rate [º/s]:  -4.89  | Pitch rate [º/s]:  0.72  | Yaw rate [º/s]:  1.05
+21:44:18.085 > Loop t1
+21:44:18.087 > Roll rate [º/s]:  -4.87  | Pitch rate [º/s]:  0.70  | Yaw rate [º/s]:  1.02
+21:44:18.137 > Loop t1
+21:44:18.140 > Roll rate [º/s]:  -4.90  | Pitch rate [º/s]:  0.69  | Yaw rate [º/s]:  1.07
+21:44:18.189 > Loop t1
+21:44:18.191 > Roll rate [º/s]:  -4.87  | Pitch rate [º/s]:  0.69  | Yaw rate [º/s]:  1.01
+21:44:18.241 > Loop t1
+21:44:18.243 > Roll rate [º/s]:  -4.82  | Pitch rate [º/s]:  0.70  | Yaw rate [º/s]:  1.01
+21:44:18.293 > Loop t1
+21:44:18.295 > Roll rate [º/s]:  -4.85  | Pitch rate [º/s]:  0.64  | Yaw rate [º/s]:  1.08
+21:44:18.345 > Loop t1
+21:44:18.348 > Roll rate [º/s]:  -4.87  | Pitch rate [º/s]:  0.67  | Yaw rate [º/s]:  0.99
+21:44:18.397 > Loop t1
+21:44:18.399 > Roll rate [º/s]:  -4.87  | Pitch rate [º/s]:  0.67  | Yaw rate [º/s]:  0.99
+21:44:18.449 > Loop t1
+21:44:18.451 > Roll rate [º/s]:  -4.90  | Pitch rate [º/s]:  0.70  | Yaw rate [º/s]:  1.04
+21:44:18.501 > Loop t1
+21:44:18.504 > Roll rate [º/s]:  -4.89  | Pitch rate [º/s]:  0.69  | Yaw rate [º/s]:  0.99
+21:44:18.553 > Loop t1
+21:44:18.555 > Roll rate [º/s]:  -4.82  | Pitch rate [º/s]:  0.67  | Yaw rate [º/s]:  1.04
+21:44:18.606 > Loop t1
+21:44:18.607 > Roll rate [º/s]:  -4.85  | Pitch rate [º/s]:  0.66  | Yaw rate [º/s]:  1.08
+21:44:18.658 > Loop t1
+21:44:18.659 > Roll rate [º/s]:  -4.87  | Pitch rate [º/s]:  0.69  | Yaw rate [º/s]:  0.98
+21:44:18.709 > Loop t1
+21:44:18.711 > Roll rate [º/s]:  -4.84  | Pitch rate [º/s]:  0.69  | Yaw rate [º/s]:  1.04
+21:44:18.762 > Loop t1
+21:44:18.765 > Roll rate [º/s]:  -4.85  | Pitch rate [º/s]:  0.66  | Yaw rate [º/s]:  1.04
+21:44:18.813 > Loop t1
+21:44:18.816 > Roll rate [º/s]:  -4.85  | Pitch rate [º/s]:  0.69  | Yaw rate [º/s]:  1.04
+21:44:18.865 > Loop t1
+21:44:18.867 > Roll rate [º/s]:  -4.84  | Pitch rate [º/s]:  0.63  | Yaw rate [º/s]:  1.01
+21:44:18.918 > Loop t1
+21:44:18.919 > Roll rate [º/s]:  -4.81  | Pitch rate [º/s]:  0.69  | Yaw rate [º/s]:  1.07
+21:44:18.969 > Loop t1
+21:44:18.971 > Roll rate [º/s]:  -4.84  | Pitch rate [º/s]:  0.69  | Yaw rate [º/s]:  1.02
+21:44:19.021 > Loop t1
+21:44:19.023 > Roll rate [º/s]:  -4.84  | Pitch rate [º/s]:  0.67  | Yaw rate [º/s]:  1.02
+21:44:19.073 > Loop t1
+21:44:19.075 > Roll rate [º/s]:  -4.87  | Pitch rate [º/s]:  0.69  | Yaw rate [º/s]:  1.10
+21:44:19.125 > Loop t1
+21:44:19.127 > Roll rate [º/s]:  -4.87  | Pitch rate [º/s]:  0.70  | Yaw rate [º/s]:  1.02
+21:44:19.179 > Loop t1
+21:44:19.179 > Roll rate [º/s]:  -4.85  | Pitch rate [º/s]:  0.72  | Yaw rate [º/s]:  1.02
+21:44:19.229 > Loop t1
+21:44:19.231 > Roll rate [º/s]:  -4.90  | Pitch rate [º/s]:  0.66  | Yaw rate [º/s]:  1.08
+21:44:19.281 > Loop t1
+21:44:19.283 > Roll rate [º/s]:  -4.85  | Pitch rate [º/s]:  0.67  | Yaw rate [º/s]:  0.99
+21:44:19.333 > Loop t1
+21:44:19.335 > Roll rate [º/s]:  -4.84  | Pitch rate [º/s]:  0.66  | Yaw rate [º/s]:  1.01
+21:44:19.385 > Loop t1
+21:44:19.387 > Roll rate [º/s]:  -4.84  | Pitch rate [º/s]:  0.67  | Yaw rate [º/s]:  1.08
+21:44:19.438 > Loop t1
+21:44:19.439 > Roll rate [º/s]:  -4.87  | Pitch rate [º/s]:  0.67  | Yaw rate [º/s]:  0.98
+21:44:19.489 > Loop t1
+21:44:19.491 > Roll rate [º/s]:  -4.89  | Pitch rate [º/s]:  0.67  | Yaw rate [º/s]:  1.07
+21:44:19.541 > Loop t1
+21:44:19.543 > Roll rate [º/s]:  -4.89  | Pitch rate [º/s]:  0.76  | Yaw rate [º/s]:  1.05
+21:44:19.593 > Loop t1
+21:44:19.595 > Roll rate [º/s]:  -4.85  | Pitch rate [º/s]:  0.72  | Yaw rate [º/s]:  0.99
+21:44:19.645 > Loop t1
+21:44:19.647 > Roll rate [º/s]:  -4.85  | Pitch rate [º/s]:  0.67  | Yaw rate [º/s]:  1.04
+21:44:19.697 > Loop t1
+21:44:19.699 > Roll rate [º/s]:  -4.85  | Pitch rate [º/s]:  0.66  | Yaw rate [º/s]:  1.04
+21:44:19.749 > Loop t1
+21:44:19.751 > Roll rate [º/s]:  -4.84  | Pitch rate [º/s]:  0.69  | Yaw rate [º/s]:  0.98
+21:44:19.801 > Loop t1
+21:44:19.803 > Roll rate [º/s]:  -4.89  | Pitch rate [º/s]:  0.67  | Yaw rate [º/s]:  1.02
+21:44:19.853 > Loop t1
+21:44:19.855 > Roll rate [º/s]:  -4.85  | Pitch rate [º/s]:  0.69  | Yaw rate [º/s]:  1.05
+21:44:19.905 > Loop t1
+21:44:19.907 > Roll rate [º/s]:  -4.87  | Pitch rate [º/s]:  0.67  | Yaw rate [º/s]:  1.01
+21:44:19.957 > Loop t1
+21:44:19.959 > Roll rate [º/s]:  -4.89  | Pitch rate [º/s]:  0.70  | Yaw rate [º/s]:  1.05
+21:44:20.009 > Loop t1
+21:44:20.011 > Roll rate [º/s]:  -4.90  | Pitch rate [º/s]:  0.66  | Yaw rate [º/s]:  1.01
+21:44:20.061 > Loop t1
+21:44:20.064 > Roll rate [º/s]:  -4.89  | Pitch rate [º/s]:  0.67  | Yaw rate [º/s]:  0.99
+21:44:20.113 > Loop t1
+21:44:20.115 > Roll rate [º/s]:  -4.82  | Pitch rate [º/s]:  0.73  | Yaw rate [º/s]:  1.02
+21:44:20.165 > Loop t1
+21:44:20.168 > Roll rate [º/s]:  -4.85  | Pitch rate [º/s]:  0.73  | Yaw rate [º/s]:  0.99
+21:44:20.217 > Loop t1
+21:44:20.219 > Roll rate [º/s]:  -4.89  | Pitch rate [º/s]:  0.67  | Yaw rate [º/s]:  1.05
+21:44:20.269 > Loop t1
+21:44:20.271 > Roll rate [º/s]:  -4.84  | Pitch rate [º/s]:  0.64  | Yaw rate [º/s]:  1.05
+21:44:20.321 > Loop t1
+21:44:20.323 > Roll rate [º/s]:  -4.87  | Pitch rate [º/s]:  0.72  | Yaw rate [º/s]:  1.01
+21:44:20.373 > Loop t1
+21:44:20.375 > Roll rate [º/s]:  -4.84  | Pitch rate [º/s]:  0.72  | Yaw rate [º/s]:  1.04
+21:44:20.425 > Loop t1
+21:44:20.427 > Roll rate [º/s]:  -4.87  | Pitch rate [º/s]:  0.72  | Yaw rate [º/s]:  1.02
+21:44:20.477 > Loop t1
+21:44:20.479 > Roll rate [º/s]:  -4.87  | Pitch rate [º/s]:  0.70  | Yaw rate [º/s]:  1.01
+21:44:20.529 > Loop t1
+21:44:20.531 > Roll rate [º/s]:  -4.85  | Pitch rate [º/s]:  0.69  | Yaw rate [º/s]:  1.02
+21:44:20.581 > Loop t1
+21:44:20.584 > Roll rate [º/s]:  -4.89  | Pitch rate [º/s]:  0.72  | Yaw rate [º/s]:  1.02
+21:44:20.633 > Loop t1
+21:44:20.635 > Roll rate [º/s]:  -4.85  | Pitch rate [º/s]:  0.67  | Yaw rate [º/s]:  1.02
+21:44:20.685 > Loop t1
+21:44:20.687 > Roll rate [º/s]:  -4.87  | Pitch rate [º/s]:  0.66  | Yaw rate [º/s]:  1.04
+21:44:20.737 > Loop t1
+21:44:20.739 > Roll rate [º/s]:  -4.85  | Pitch rate [º/s]:  0.66  | Yaw rate [º/s]:  1.04
+21:44:20.789 > Loop t1
+21:44:20.791 > Roll rate [º/s]:  -4.84  | Pitch rate [º/s]:  0.72  | Yaw rate [º/s]:  1.01
+21:44:20.841 > Loop t1
+21:44:20.843 > Roll rate [º/s]:  -4.89  | Pitch rate [º/s]:  0.70  | Yaw rate [º/s]:  1.01
+21:44:20.893 > Loop t1
+21:44:20.895 > Roll rate [º/s]:  -4.87  | Pitch rate [º/s]:  0.70  | Yaw rate [º/s]:  1.01
+21:44:20.945 > Loop t1
+21:44:20.947 > Roll rate [º/s]:  -4.85  | Pitch rate [º/s]:  0.66  | Yaw rate [º/s]:  1.05
+21:44:20.997 > Loop t1
+21:44:20.999 > Roll rate [º/s]:  -4.85  | Pitch rate [º/s]:  0.70  | Yaw rate [º/s]:  1.04
+21:44:21.049 > Loop t1
+21:44:21.052 > Roll rate [º/s]:  -4.84  | Pitch rate [º/s]:  0.69  | Yaw rate [º/s]:  1.02
+21:44:21.101 > Loop t1
+21:44:21.103 > Roll rate [º/s]:  -4.90  | Pitch rate [º/s]:  0.69  | Yaw rate [º/s]:  1.02
+21:44:21.154 > Loop t1
+21:44:21.155 > Roll rate [º/s]:  -4.87  | Pitch rate [º/s]:  0.67  | Yaw rate [º/s]:  1.04
+21:44:21.205 > Loop t1
+21:44:21.207 > Roll rate [º/s]:  -4.89  | Pitch rate [º/s]:  0.73  | Yaw rate [º/s]:  1.01
+21:44:21.257 > Loop t1
+21:44:21.259 > Roll rate [º/s]:  -4.85  | Pitch rate [º/s]:  0.75  | Yaw rate [º/s]:  1.05
+21:44:21.309 > Loop t1
+21:44:21.311 > Roll rate [º/s]:  -4.84  | Pitch rate [º/s]:  0.69  | Yaw rate [º/s]:  1.01
+21:44:21.361 > Loop t1
+21:44:21.363 > Roll rate [º/s]:  -4.89  | Pitch rate [º/s]:  0.69  | Yaw rate [º/s]:  0.99
+21:44:21.413 > Loop t1
+21:44:21.415 > Roll rate [º/s]:  -4.87  | Pitch rate [º/s]:  0.67  | Yaw rate [º/s]:  0.99
+21:44:21.465 > Loop t1
+21:44:21.467 > Roll rate [º/s]:  -4.89  | Pitch rate [º/s]:  0.70  | Yaw rate [º/s]:  1.05
+21:44:21.517 > Loop t1
+21:44:21.519 > Roll rate [º/s]:  -4.82  | Pitch rate [º/s]:  0.66  | Yaw rate [º/s]:  1.02
+21:44:21.569 > Loop t1
+21:44:21.571 > Roll rate [º/s]:  -4.84  | Pitch rate [º/s]:  0.69  | Yaw rate [º/s]:  1.02
+21:44:21.621 > Loop t1
+21:44:21.623 > Roll rate [º/s]:  -4.85  | Pitch rate [º/s]:  0.73  | Yaw rate [º/s]:  1.05
+21:44:21.673 > Loop t1
+21:44:21.675 > Roll rate [º/s]:  -4.87  | Pitch rate [º/s]:  0.67  | Yaw rate [º/s]:  1.01
+21:44:21.725 > Loop t1
+21:44:21.727 > Roll rate [º/s]:  -4.84  | Pitch rate [º/s]:  0.69  | Yaw rate [º/s]:  1.04
+21:44:21.777 > Loop t1
+21:44:21.779 > Roll rate [º/s]:  -4.87  | Pitch rate [º/s]:  0.70  | Yaw rate [º/s]:  1.01
+21:44:21.829 > Loop t1
+21:44:21.831 > Roll rate [º/s]:  -4.85  | Pitch rate [º/s]:  0.64  | Yaw rate [º/s]:  1.02
+21:44:21.881 > Loop t1
+21:44:21.883 > Roll rate [º/s]:  -4.82  | Pitch rate [º/s]:  0.70  | Yaw rate [º/s]:  1.04
+21:44:21.933 > Loop t1
+21:44:21.935 > Roll rate [º/s]:  -4.87  | Pitch rate [º/s]:  0.70  | Yaw rate [º/s]:  1.01
+21:44:21.985 > Loop t1
+21:44:21.987 > Roll rate [º/s]:  -4.84  | Pitch rate [º/s]:  0.73  | Yaw rate [º/s]:  1.01
+21:44:22.037 > Loop t1
+21:44:22.039 > Roll rate [º/s]:  -4.84  | Pitch rate [º/s]:  0.72  | Yaw rate [º/s]:  1.07
+21:44:22.089 > Loop t1
+21:44:22.091 > Roll rate [º/s]:  -4.89  | Pitch rate [º/s]:  0.64  | Yaw rate [º/s]:  1.04
+21:44:22.141 > Loop t1
+21:44:22.143 > Roll rate [º/s]:  -4.85  | Pitch rate [º/s]:  0.70  | Yaw rate [º/s]:  0.99
+21:44:22.193 > Loop t1
+21:44:22.195 > Roll rate [º/s]:  -4.84  | Pitch rate [º/s]:  0.67  | Yaw rate [º/s]:  1.04
+21:44:22.245 > Loop t1
+21:44:22.247 > Roll rate [º/s]:  -4.87  | Pitch rate [º/s]:  0.67  | Yaw rate [º/s]:  1.04
+21:44:22.297 > Loop t1
+21:44:22.299 > Roll rate [º/s]:  -4.85  | Pitch rate [º/s]:  0.69  | Yaw rate [º/s]:  1.01
+21:44:22.349 > Loop t1
+21:44:22.351 > Roll rate [º/s]:  -4.85  | Pitch rate [º/s]:  0.64  | Yaw rate [º/s]:  1.04
+21:44:22.401 > Loop t1
+21:44:22.403 > Roll rate [º/s]:  -4.84  | Pitch rate [º/s]:  0.67  | Yaw rate [º/s]:  1.02
+21:44:22.453 > Loop t1
+21:44:22.455 > Roll rate [º/s]:  -4.85  | Pitch rate [º/s]:  0.73  | Yaw rate [º/s]:  1.02
+21:44:22.505 > Loop t1
+21:44:22.507 > Roll rate [º/s]:  -4.87  | Pitch rate [º/s]:  0.67  | Yaw rate [º/s]:  1.02
+21:44:22.557 > Loop t1
+21:44:22.559 > Roll rate [º/s]:  -4.90  | Pitch rate [º/s]:  0.67  | Yaw rate [º/s]:  0.99
+21:44:22.609 > Loop t1
+21:44:22.611 > Roll rate [º/s]:  -4.85  | Pitch rate [º/s]:  0.67  | Yaw rate [º/s]:  1.01
+21:44:22.661 > Loop t1
+21:44:22.663 > Roll rate [º/s]:  -4.87  | Pitch rate [º/s]:  0.72  | Yaw rate [º/s]:  0.99
+21:44:22.713 > Loop t1
+21:44:22.715 > Roll rate [º/s]:  -4.82  | Pitch rate [º/s]:  0.69  | Yaw rate [º/s]:  1.05
+21:44:22.765 > Loop t1
+21:44:22.767 > Roll rate [º/s]:  -4.81  | Pitch rate [º/s]:  0.67  | Yaw rate [º/s]:  1.02
+21:44:22.817 > Loop t1
+21:44:22.819 > Roll rate [º/s]:  -4.85  | Pitch rate [º/s]:  0.69  | Yaw rate [º/s]:  1.02
+21:44:22.869 > Loop t1
+21:44:22.871 > Roll rate [º/s]:  -4.84  | Pitch rate [º/s]:  0.70  | Yaw rate [º/s]:  1.01
+21:44:22.921 > Loop t1
+21:44:22.923 > Roll rate [º/s]:  -4.87  | Pitch rate [º/s]:  0.67  | Yaw rate [º/s]:  1.01
+21:44:22.973 > Loop t1
+21:44:22.975 > Roll rate [º/s]:  -4.81  | Pitch rate [º/s]:  0.69  | Yaw rate [º/s]:  1.04
+21:44:23.025 > Loop t1
+21:44:23.027 > Roll rate [º/s]:  -4.82  | Pitch rate [º/s]:  0.70  | Yaw rate [º/s]:  1.02
+21:44:23.077 > Loop t1
+21:44:23.079 > Roll rate [º/s]:  -4.85  | Pitch rate [º/s]:  0.64  | Yaw rate [º/s]:  1.04
+21:44:23.129 > Loop t1
+21:44:23.131 > Roll rate [º/s]:  -4.87  | Pitch rate [º/s]:  0.70  | Yaw rate [º/s]:  1.05
+21:44:23.181 > Loop t1
+21:44:23.183 > Roll rate [º/s]:  -4.84  | Pitch rate [º/s]:  0.70  | Yaw rate [º/s]:  1.04
+21:44:23.233 > Loop t1
+21:44:23.235 > Roll rate [º/s]:  -4.85  | Pitch rate [º/s]:  0.69  | Yaw rate [º/s]:  1.05
+21:44:23.285 > Loop t1
+21:44:23.287 > Roll rate [º/s]:  -4.84  | Pitch rate [º/s]:  0.72  | Yaw rate [º/s]:  1.05
+21:44:23.337 > Loop t1
+21:44:23.339 > Roll rate [º/s]:  -4.87  | Pitch rate [º/s]:  0.67  | Yaw rate [º/s]:  1.02
+21:44:23.389 > Loop t1
+21:44:23.391 > Roll rate [º/s]:  -4.92  | Pitch rate [º/s]:  0.70  | Yaw rate [º/s]:  1.02
+21:44:23.441 > Loop t1
+21:44:23.443 > Roll rate [º/s]:  -4.84  | Pitch rate [º/s]:  0.66  | Yaw rate [º/s]:  1.04
+21:44:23.493 > Loop t1
+21:44:23.495 > Roll rate [º/s]:  -4.87  | Pitch rate [º/s]:  0.72  | Yaw rate [º/s]:  1.04
+21:44:23.545 > Loop t1
+21:44:23.547 > Roll rate [º/s]:  -4.85  | Pitch rate [º/s]:  0.69  | Yaw rate [º/s]:  1.05
+21:44:23.597 > Loop t1
+21:44:23.599 > Roll rate [º/s]:  -4.89  | Pitch rate [º/s]:  0.73  | Yaw rate [º/s]:  1.07
+21:44:23.649 > Loop t1
+21:44:23.651 > Roll rate [º/s]:  -4.87  | Pitch rate [º/s]:  0.69  | Yaw rate [º/s]:  1.05
+21:44:23.701 > Loop t1
+21:44:23.703 > Roll rate [º/s]:  -4.87  | Pitch rate [º/s]:  0.69  | Yaw rate [º/s]:  0.98
+21:44:23.753 > Loop t1
+21:44:23.755 > Roll rate [º/s]:  -4.85  | Pitch rate [º/s]:  0.67  | Yaw rate [º/s]:  1.02
+21:44:23.805 > Loop t1
+21:44:23.807 > Roll rate [º/s]:  -4.84  | Pitch rate [º/s]:  0.73  | Yaw rate [º/s]:  1.01
+21:44:23.857 > Loop t1
+21:44:23.859 > Roll rate [º/s]:  -4.87  | Pitch rate [º/s]:  0.67  | Yaw rate [º/s]:  1.02
+21:44:23.909 > Loop t1
+21:44:23.911 > Roll rate [º/s]:  -4.87  | Pitch rate [º/s]:  0.70  | Yaw rate [º/s]:  1.01
+21:44:23.961 > Loop t1
+21:44:23.963 > Roll rate [º/s]:  -4.85  | Pitch rate [º/s]:  0.67  | Yaw rate [º/s]:  1.01
+21:44:24.013 > Loop t1
+21:44:24.015 > Roll rate [º/s]:  -4.85  | Pitch rate [º/s]:  0.70  | Yaw rate [º/s]:  1.04
+21:44:24.065 > Loop t1
+21:44:24.067 > Roll rate [º/s]:  -4.84  | Pitch rate [º/s]:  0.70  | Yaw rate [º/s]:  1.07
+21:44:24.117 > Loop t1
+21:44:24.119 > Roll rate [º/s]:  -4.85  | Pitch rate [º/s]:  0.67  | Yaw rate [º/s]:  1.01
+21:44:24.169 > Loop t1
+21:44:24.171 > Roll rate [º/s]:  -4.85  | Pitch rate [º/s]:  0.70  | Yaw rate [º/s]:  1.05
+21:44:24.221 > Loop t1
+21:44:24.223 > Roll rate [º/s]:  -4.85  | Pitch rate [º/s]:  0.70  | Yaw rate [º/s]:  1.01
+21:44:24.273 > Loop t1
+21:44:24.275 > Roll rate [º/s]:  -4.84  | Pitch rate [º/s]:  0.69  | Yaw rate [º/s]:  0.99
+21:44:24.325 > Loop t1
+21:44:24.327 > Roll rate [º/s]:  -4.84  | Pitch rate [º/s]:  0.67  | Yaw rate [º/s]:  1.04
+21:44:24.377 > Loop t1
+21:44:24.379 > Roll rate [º/s]:  -4.85  | Pitch rate [º/s]:  0.67  | Yaw rate [º/s]:  0.99
+21:44:24.429 > Loop t1
+21:44:24.431 > Roll rate [º/s]:  -4.87  | Pitch rate [º/s]:  0.70  | Yaw rate [º/s]:  0.99
+21:44:24.481 > Loop t1
+21:44:24.483 > Roll rate [º/s]:  -4.82  | Pitch rate [º/s]:  0.72  | Yaw rate [º/s]:  1.04
+21:44:24.533 > Loop t1
+21:44:24.535 > Roll rate [º/s]:  -4.87  | Pitch rate [º/s]:  0.70  | Yaw rate [º/s]:  1.04
+21:44:24.585 > Loop t1
+21:44:24.587 > Roll rate [º/s]:  -4.87  | Pitch rate [º/s]:  0.63  | Yaw rate [º/s]:  1.04
+21:44:24.637 > Loop t1
+21:44:24.639 > Roll rate [º/s]:  -4.85  | Pitch rate [º/s]:  0.67  | Yaw rate [º/s]:  1.02
+21:44:24.689 > Loop t1
+21:44:24.691 > Roll rate [º/s]:  -4.85  | Pitch rate [º/s]:  0.63  | Yaw rate [º/s]:  0.98
+21:44:24.741 > Loop t1
+21:44:24.743 > Roll rate [º/s]:  -4.85  | Pitch rate [º/s]:  0.72  | Yaw rate [º/s]:  1.07
+21:44:24.793 > Loop t1
+21:44:24.795 > Roll rate [º/s]:  -4.89  | Pitch rate [º/s]:  0.66  | Yaw rate [º/s]:  1.04
+21:44:24.845 > Loop t1
+21:44:24.847 > Roll rate [º/s]:  -4.85  | Pitch rate [º/s]:  0.69  | Yaw rate [º/s]:  1.02
+21:44:24.897 > Loop t1
+21:44:24.899 > Roll rate [º/s]:  -4.92  | Pitch rate [º/s]:  0.72  | Yaw rate [º/s]:  1.02
+21:44:24.949 > Loop t1
+21:44:24.951 > Roll rate [º/s]:  -4.89  | Pitch rate [º/s]:  0.69  | Yaw rate [º/s]:  1.02
+21:44:25.001 > Loop t1
+21:44:25.003 > Roll rate [º/s]:  -4.90  | Pitch rate [º/s]:  0.67  | Yaw rate [º/s]:  1.02
+21:44:25.053 > Loop t1
+21:44:25.055 > Roll rate [º/s]:  -4.87  | Pitch rate [º/s]:  0.67  | Yaw rate [º/s]:  1.05
+21:44:25.105 > Loop t1
+21:44:25.107 > Roll rate [º/s]:  -4.87  | Pitch rate [º/s]:  0.72  | Yaw rate [º/s]:  1.01
+21:44:25.157 > Loop t1
+21:44:25.159 > Roll rate [º/s]:  -4.82  | Pitch rate [º/s]:  0.63  | Yaw rate [º/s]:  1.02
+21:44:25.209 > Loop t1
+21:44:25.211 > Roll rate [º/s]:  -4.87  | Pitch rate [º/s]:  0.67  | Yaw rate [º/s]:  1.04
+21:44:25.261 > Loop t1
+21:44:25.263 > Roll rate [º/s]:  -4.85  | Pitch rate [º/s]:  0.70  | Yaw rate [º/s]:  1.04
+21:44:25.313 > Loop t1
+21:44:25.315 > Roll rate [º/s]:  -4.87  | Pitch rate [º/s]:  0.67  | Yaw rate [º/s]:  1.01
+21:44:25.365 > Loop t1
+21:44:25.367 > Roll rate [º/s]:  -4.89  | Pitch rate [º/s]:  0.72  | Yaw rate [º/s]:  1.02
+21:44:25.417 > Loop t1
+21:44:25.419 > Roll rate [º/s]:  -4.90  | Pitch rate [º/s]:  0.64  | Yaw rate [º/s]:  1.01
+21:44:25.469 > Loop t1
+21:44:25.471 > Roll rate [º/s]:  -4.92  | Pitch rate [º/s]:  0.69  | Yaw rate [º/s]:  1.05
+21:44:25.521 > Loop t1
+21:44:25.523 > Roll rate [º/s]:  -4.89  | Pitch rate [º/s]:  0.67  | Yaw rate [º/s]:  1.01
+21:44:25.573 > Loop t1
+21:44:25.575 > Roll rate [º/s]:  -4.85  | Pitch rate [º/s]:  0.70  | Yaw rate [º/s]:  1.02
+21:44:25.625 > Loop t1
+21:44:25.627 > Roll rate [º/s]:  -4.87  | Pitch rate [º/s]:  0.70  | Yaw rate [º/s]:  1.05
+21:44:25.677 > Loop t1
+21:44:25.679 > Roll rate [º/s]:  -4.87  | Pitch rate [º/s]:  0.73  | Yaw rate [º/s]:  1.05
+21:44:25.729 > Loop t1
+21:44:25.731 > Roll rate [º/s]:  -4.85  | Pitch rate [º/s]:  0.69  | Yaw rate [º/s]:  1.02
+21:44:25.781 > Loop t1
+21:44:25.783 > Roll rate [º/s]:  -4.84  | Pitch rate [º/s]:  0.69  | Yaw rate [º/s]:  1.05
+21:44:25.833 > Loop t1
+21:44:25.835 > Roll rate [º/s]:  -4.87  | Pitch rate [º/s]:  0.72  | Yaw rate [º/s]:  0.99
+21:44:25.885 > Loop t1
+21:44:25.887 > Roll rate [º/s]:  -4.87  | Pitch rate [º/s]:  0.61  | Yaw rate [º/s]:  1.04
+21:44:25.937 > Loop t1
+21:44:25.939 > Roll rate [º/s]:  -4.90  | Pitch rate [º/s]:  0.73  | Yaw rate [º/s]:  1.05
+21:44:25.989 > Loop t1
+21:44:25.991 > Roll rate [º/s]:  -4.85  | Pitch rate [º/s]:  0.67  | Yaw rate [º/s]:  1.02
+21:44:26.041 > Loop t1
+21:44:26.043 > Roll rate [º/s]:  -4.87  | Pitch rate [º/s]:  0.69  | Yaw rate [º/s]:  0.99
+21:44:26.093 > Loop t1
+21:44:26.095 > Roll rate [º/s]:  -4.85  | Pitch rate [º/s]:  0.66  | Yaw rate [º/s]:  1.01
+21:44:26.145 > Loop t1
+21:44:26.147 > Roll rate [º/s]:  -4.90  | Pitch rate [º/s]:  0.70  | Yaw rate [º/s]:  1.01
+21:44:26.197 > Loop t1
+21:44:26.199 > Roll rate [º/s]:  -4.87  | Pitch rate [º/s]:  0.66  | Yaw rate [º/s]:  1.04
+21:44:26.249 > Loop t1
+21:44:26.251 > Roll rate [º/s]:  -4.87  | Pitch rate [º/s]:  0.66  | Yaw rate [º/s]:  1.05
+21:44:26.301 > Loop t1
+21:44:26.303 > Roll rate [º/s]:  -4.85  | Pitch rate [º/s]:  0.69  | Yaw rate [º/s]:  1.02
+21:44:26.354 > Loop t1
+21:44:26.355 > Roll rate [º/s]:  -4.82  | Pitch rate [º/s]:  0.66  | Yaw rate [º/s]:  1.01
+21:44:26.405 > Loop t1
+21:44:26.409 > Roll rate [º/s]:  -4.85  | Pitch rate [º/s]:  0.73  | Yaw rate [º/s]:  1.04
+21:44:26.457 > Loop t1
+21:44:26.459 > Roll rate [º/s]:  -4.85  | Pitch rate [º/s]:  0.70  | Yaw rate [º/s]:  1.01
+21:44:26.509 > Loop t1
+21:44:26.511 > Roll rate [º/s]:  -4.89  | Pitch rate [º/s]:  0.66  | Yaw rate [º/s]:  1.02
+21:44:26.561 > Loop t1
+21:44:26.563 > Roll rate [º/s]:  -4.85  | Pitch rate [º/s]:  0.63  | Yaw rate [º/s]:  1.04
+21:44:26.613 > Loop t1
+21:44:26.615 > Roll rate [º/s]:  -4.87  | Pitch rate [º/s]:  0.70  | Yaw rate [º/s]:  1.02
+21:44:26.665 > Loop t1
+21:44:26.668 > Roll rate [º/s]:  -4.87  | Pitch rate [º/s]:  0.67  | Yaw rate [º/s]:  1.04
+21:44:26.717 > Loop t1
+21:44:26.719 > Roll rate [º/s]:  -4.84  | Pitch rate [º/s]:  0.70  | Yaw rate [º/s]:  1.05
+21:44:26.769 > Loop t1
+21:44:26.772 > Roll rate [º/s]:  -4.87  | Pitch rate [º/s]:  0.70  | Yaw rate [º/s]:  0.98
+21:44:26.821 > Loop t1
+21:44:26.823 > Roll rate [º/s]:  -4.85  | Pitch rate [º/s]:  0.67  | Yaw rate [º/s]:  1.04
+21:44:26.873 > Loop t1
+21:44:26.875 > Roll rate [º/s]:  -4.85  | Pitch rate [º/s]:  0.72  | Yaw rate [º/s]:  1.04
+21:44:26.926 > Loop t1
+21:44:26.927 > Roll rate [º/s]:  -4.84  | Pitch rate [º/s]:  0.66  | Yaw rate [º/s]:  1.01
+21:44:26.977 > Loop t1
+21:44:26.979 > Roll rate [º/s]:  -4.87  | Pitch rate [º/s]:  0.69  | Yaw rate [º/s]:  1.05
+21:44:27.029 > Loop t1
+21:44:27.033 > Roll rate [º/s]:  -4.85  | Pitch rate [º/s]:  0.70  | Yaw rate [º/s]:  1.08
+21:44:27.081 > Loop t1
+21:44:27.083 > Roll rate [º/s]:  -4.85  | Pitch rate [º/s]:  0.67  | Yaw rate [º/s]:  0.98
+21:44:27.133 > Loop t1
+21:44:27.136 > Roll rate [º/s]:  -4.87  | Pitch rate [º/s]:  0.63  | Yaw rate [º/s]:  1.05
+21:44:27.185 > Loop t1
+21:44:27.187 > Roll rate [º/s]:  -4.84  | Pitch rate [º/s]:  0.66  | Yaw rate [º/s]:  1.01
+21:44:27.239 > Loop t1
+21:44:27.239 > Roll rate [º/s]:  -4.87  | Pitch rate [º/s]:  0.69  | Yaw rate [º/s]:  1.01
+21:44:27.289 > Loop t1
+21:44:27.290 > Roll rate [º/s]:  -4.84  | Pitch rate [º/s]:  0.66  | Yaw rate [º/s]:  1.04
+21:44:27.341 > Loop t1
+21:44:27.342 > Roll rate [º/s]:  -4.85  | Pitch rate [º/s]:  0.69  | Yaw rate [º/s]:  1.05
+21:44:27.393 > Loop t1
+21:44:27.394 > Roll rate [º/s]:  -4.89  | Pitch rate [º/s]:  0.70  | Yaw rate [º/s]:  1.02
+21:44:27.445 > Loop t1
+21:44:27.446 > Roll rate [º/s]:  -4.87  | Pitch rate [º/s]:  0.69  | Yaw rate [º/s]:  1.02
+21:44:27.497 > Loop t1
+21:44:27.498 > Roll rate [º/s]:  -4.87  | Pitch rate [º/s]:  0.73  | Yaw rate [º/s]:  1.02
+21:44:27.549 > Loop t1
+21:44:27.550 > Roll rate [º/s]:  -4.85  | Pitch rate [º/s]:  0.69  | Yaw rate [º/s]:  0.99
+21:44:27.601 > Loop t1
+21:44:27.602 > Roll rate [º/s]:  -4.85  | Pitch rate [º/s]:  0.70  | Yaw rate [º/s]:  1.04
+21:44:27.653 > Loop t1
+21:44:27.654 > Roll rate [º/s]:  -4.85  | Pitch rate [º/s]:  0.67  | Yaw rate [º/s]:  1.02
+21:44:27.705 > Loop t1
+21:44:27.707 > Roll rate [º/s]:  -4.84  | Pitch rate [º/s]:  0.67  | Yaw rate [º/s]:  1.01
+21:44:27.757 > Loop t1
+21:44:27.758 > Roll rate [º/s]:  -4.84  | Pitch rate [º/s]:  0.72  | Yaw rate [º/s]:  1.04
+21:44:27.809 > Loop t1
+21:44:27.810 > Roll rate [º/s]:  -4.89  | Pitch rate [º/s]:  0.73  | Yaw rate [º/s]:  1.04
+21:44:27.861 > Loop t1
+21:44:27.864 > Roll rate [º/s]:  -4.87  | Pitch rate [º/s]:  0.70  | Yaw rate [º/s]:  1.02
+21:44:27.914 > Loop t1
+21:44:27.915 > Roll rate [º/s]:  -4.85  | Pitch rate [º/s]:  0.66  | Yaw rate [º/s]:  1.07
+21:44:27.965 > Loop t1
+21:44:27.966 > Roll rate [º/s]:  -4.84  | Pitch rate [º/s]:  0.69  | Yaw rate [º/s]:  1.07
+21:44:28.017 > Loop t1
+21:44:28.019 > Roll rate [º/s]:  -4.84  | Pitch rate [º/s]:  0.67  | Yaw rate [º/s]:  1.05
+21:44:28.069 > Loop t1
+21:44:28.070 > Roll rate [º/s]:  -4.89  | Pitch rate [º/s]:  0.69  | Yaw rate [º/s]:  1.05
+21:44:28.121 > Loop t1
+21:44:28.122 > Roll rate [º/s]:  -4.85  | Pitch rate [º/s]:  0.69  | Yaw rate [º/s]:  1.04
+21:44:28.173 > Loop t1
+21:44:28.175 > Roll rate [º/s]:  -4.85  | Pitch rate [º/s]:  0.70  | Yaw rate [º/s]:  1.01
+21:44:28.226 > Loop t1
+21:44:28.227 > Roll rate [º/s]:  -4.85  | Pitch rate [º/s]:  0.66  | Yaw rate [º/s]:  1.07
+21:44:28.278 > Loop t1
+21:44:28.280 > Roll rate [º/s]:  -4.84  | Pitch rate [º/s]:  0.69  | Yaw rate [º/s]:  1.01
+21:44:28.330 > Loop t1
+21:44:28.331 > Roll rate [º/s]:  -4.89  | Pitch rate [º/s]:  0.69  | Yaw rate [º/s]:  1.01
+21:44:28.381 > Loop t1
+21:44:28.382 > Roll rate [º/s]:  -4.87  | Pitch rate [º/s]:  0.70  | Yaw rate [º/s]:  1.05
+21:44:28.433 > Loop t1
+21:44:28.435 > Roll rate [º/s]:  -4.89  | Pitch rate [º/s]:  0.66  | Yaw rate [º/s]:  0.99
+21:44:28.484 > Loop t1
+21:44:28.487 > Roll rate [º/s]:  -4.87  | Pitch rate [º/s]:  0.70  | Yaw rate [º/s]:  1.02
+21:44:28.538 > Loop t1
+21:44:28.538 > Roll rate [º/s]:  -4.89  | Pitch rate [º/s]:  0.67  | Yaw rate [º/s]:  1.04
+21:44:28.590 > Loop t1
+21:44:28.590 > Roll rate [º/s]:  -4.87  | Pitch rate [º/s]:  0.66  | Yaw rate [º/s]:  0.98
+21:44:28.641 > Loop t1
+21:44:28.646 > Roll rate [º/s]:  -4.84  | Pitch rate [º/s]:  0.67  | Yaw rate [º/s]:  1.04
+21:44:28.694 > Loop t1
+21:44:28.694 > Roll rate [º/s]:  -4.85  | Pitch rate [º/s]:  0.67  | Yaw rate [º/s]:  1.05
+21:44:28.745 > Loop t1
+21:44:28.746 > Roll rate [º/s]:  -4.87  | Pitch rate [º/s]:  0.69  | Yaw rate [º/s]:  0.99
+21:44:28.797 > Loop t1
+21:44:28.799 > Roll rate [º/s]:  -4.89  | Pitch rate [º/s]:  0.72  | Yaw rate [º/s]:  1.02
+21:44:28.849 > Loop t1
+21:44:28.853 > Roll rate [º/s]:  -4.87  | Pitch rate [º/s]:  0.70  | Yaw rate [º/s]:  1.07
+21:44:28.901 > Loop t1
+21:44:28.902 > Roll rate [º/s]:  -4.85  | Pitch rate [º/s]:  0.69  | Yaw rate [º/s]:  1.01
+21:44:28.953 > Loop t1
+21:44:28.955 > Roll rate [º/s]:  -4.85  | Pitch rate [º/s]:  0.72  | Yaw rate [º/s]:  1.05
+21:44:29.005 > Loop t1
+21:44:29.007 > Roll rate [º/s]:  -4.85  | Pitch rate [º/s]:  0.66  | Yaw rate [º/s]:  1.07
+21:44:29.058 > Loop t1
+21:44:29.059 > Roll rate [º/s]:  -4.85  | Pitch rate [º/s]:  0.70  | Yaw rate [º/s]:  0.99
+21:44:29.108 > Loop t1
+21:44:29.111 > Roll rate [º/s]:  -4.89  | Pitch rate [º/s]:  0.70  | Yaw rate [º/s]:  1.08
+21:44:29.161 > Loop t1
+21:44:29.163 > Roll rate [º/s]:  -4.84  | Pitch rate [º/s]:  0.69  | Yaw rate [º/s]:  1.07
+21:44:29.214 > Loop t1
+21:44:29.214 > Roll rate [º/s]:  -4.85  | Pitch rate [º/s]:  0.69  | Yaw rate [º/s]:  0.99
+21:44:29.265 > Loop t1
+21:44:29.266 > Roll rate [º/s]:  -4.89  | Pitch rate [º/s]:  0.67  | Yaw rate [º/s]:  1.04
+21:44:29.317 > Loop t1
+21:44:29.319 > Roll rate [º/s]:  -4.85  | Pitch rate [º/s]:  0.64  | Yaw rate [º/s]:  1.01
+21:44:29.369 > Loop t1
+21:44:29.370 > Roll rate [º/s]:  -4.85  | Pitch rate [º/s]:  0.67  | Yaw rate [º/s]:  1.01
+21:44:29.425 > Loop t1
+21:44:29.425 > Roll rate [º/s]:  -4.89  | Pitch rate [º/s]:  0.70  | Yaw rate [º/s]:  1.04
+21:44:29.473 > Loop t1
+21:44:29.475 > Roll rate [º/s]:  -4.85  | Pitch rate [º/s]:  0.64  | Yaw rate [º/s]:  1.04
+21:44:29.525 > Loop t1
+21:44:29.526 > Roll rate [º/s]:  -4.85  | Pitch rate [º/s]:  0.70  | Yaw rate [º/s]:  1.01
+21:44:29.576 > Loop t1
+21:44:29.578 > Roll rate [º/s]:  -4.89  | Pitch rate [º/s]:  0.69  | Yaw rate [º/s]:  1.01
+21:44:29.630 > Loop t1
+21:44:29.631 > Roll rate [º/s]:  -4.85  | Pitch rate [º/s]:  0.66  | Yaw rate [º/s]:  1.01
+21:44:29.681 > Loop t1
+21:44:29.682 > Roll rate [º/s]:  -4.85  | Pitch rate [º/s]:  0.73  | Yaw rate [º/s]:  1.05
+21:44:29.734 > Loop t1
+21:44:29.734 > Roll rate [º/s]:  -4.85  | Pitch rate [º/s]:  0.64  | Yaw rate [º/s]:  1.04
+21:44:29.784 > Loop t1
+21:44:29.787 > Roll rate [º/s]:  -4.84  | Pitch rate [º/s]:  0.70  | Yaw rate [º/s]:  0.99
+21:44:29.837 > Loop t1
+21:44:29.838 > Roll rate [º/s]:  -4.85  | Pitch rate [º/s]:  0.69  | Yaw rate [º/s]:  0.99
+21:44:29.889 > Loop t1
+21:44:29.890 > Roll rate [º/s]:  -4.87  | Pitch rate [º/s]:  0.67  | Yaw rate [º/s]:  1.04
+21:44:29.941 > Loop t1
+21:44:29.943 > Roll rate [º/s]:  -4.89  | Pitch rate [º/s]:  0.67  | Yaw rate [º/s]:  1.05
+21:44:29.993 > Loop t1
+21:44:29.994 > Roll rate [º/s]:  -4.87  | Pitch rate [º/s]:  0.70  | Yaw rate [º/s]:  1.02
+21:44:30.045 > Loop t1
+21:44:30.046 > Roll rate [º/s]:  -4.89  | Pitch rate [º/s]:  0.66  | Yaw rate [º/s]:  1.07
+21:44:30.096 > Loop t1
+21:44:30.098 > Roll rate [º/s]:  -4.85  | Pitch rate [º/s]:  0.67  | Yaw rate [º/s]:  1.02
+21:44:30.148 > Loop t1
+21:44:30.151 > Roll rate [º/s]:  -4.85  | Pitch rate [º/s]:  0.70  | Yaw rate [º/s]:  1.01
+21:44:30.200 > Loop t1
+21:44:30.202 > Roll rate [º/s]:  -4.87  | Pitch rate [º/s]:  0.66  | Yaw rate [º/s]:  1.07
+21:44:30.253 > Loop t1
+21:44:30.254 > Roll rate [º/s]:  -4.85  | Pitch rate [º/s]:  0.67  | Yaw rate [º/s]:  1.05
+21:44:30.306 > Loop t1
+21:44:30.306 > Roll rate [º/s]:  -4.85  | Pitch rate [º/s]:  0.69  | Yaw rate [º/s]:  0.99
+21:44:30.356 > Loop t1
+21:44:30.358 > Roll rate [º/s]:  -4.87  | Pitch rate [º/s]:  0.72  | Yaw rate [º/s]:  1.05
+21:44:30.409 > Loop t1
+21:44:30.410 > Roll rate [º/s]:  -4.84  | Pitch rate [º/s]:  0.72  | Yaw rate [º/s]:  1.05
+21:44:30.462 > Loop t1
+21:44:30.462 > Roll rate [º/s]:  -4.90  | Pitch rate [º/s]:  0.70  | Yaw rate [º/s]:  1.02
+21:44:30.512 > Loop t1
+21:44:30.515 > Roll rate [º/s]:  -4.85  | Pitch rate [º/s]:  0.67  | Yaw rate [º/s]:  1.04
+21:44:30.564 > Loop t1
+21:44:30.566 > Roll rate [º/s]:  -4.85  | Pitch rate [º/s]:  0.66  | Yaw rate [º/s]:  1.05
+21:44:30.616 > Loop t1
+21:44:30.619 > Roll rate [º/s]:  -4.84  | Pitch rate [º/s]:  0.70  | Yaw rate [º/s]:  0.99
+21:44:30.669 > Loop t1
+21:44:30.670 > Roll rate [º/s]:  -4.89  | Pitch rate [º/s]:  0.66  | Yaw rate [º/s]:  1.01
+21:44:30.721 > Loop t1
+21:44:30.722 > Roll rate [º/s]:  -4.85  | Pitch rate [º/s]:  0.69  | Yaw rate [º/s]:  1.04
+21:44:30.772 > Loop t1
+21:44:30.774 > Roll rate [º/s]:  -4.87  | Pitch rate [º/s]:  0.66  | Yaw rate [º/s]:  1.04
+21:44:30.825 > Loop t1
+21:44:30.827 > Roll rate [º/s]:  -4.85  | Pitch rate [º/s]:  0.66  | Yaw rate [º/s]:  1.02
+21:44:30.877 > Loop t1
+21:44:30.879 > Roll rate [º/s]:  -4.87  | Pitch rate [º/s]:  0.70  | Yaw rate [º/s]:  1.04
+21:44:30.929 > Loop t1
+21:44:30.931 > Roll rate [º/s]:  -4.85  | Pitch rate [º/s]:  0.69  | Yaw rate [º/s]:  1.02
+21:44:30.981 > Loop t1
+21:44:30.983 > Roll rate [º/s]:  -4.87  | Pitch rate [º/s]:  0.70  | Yaw rate [º/s]:  1.04
+21:44:31.032 > Loop t1
+21:44:31.036 > Roll rate [º/s]:  -4.89  | Pitch rate [º/s]:  0.69  | Yaw rate [º/s]:  1.04
+21:44:31.084 > Loop t1
+21:44:31.086 > Roll rate [º/s]:  -4.90  | Pitch rate [º/s]:  0.70  | Yaw rate [º/s]:  1.05
+21:44:31.136 > Loop t1
+21:44:31.138 > Roll rate [º/s]:  -4.89  | Pitch rate [º/s]:  0.69  | Yaw rate [º/s]:  1.02
+21:44:31.191 > Loop t1
+21:44:31.192 > Roll rate [º/s]:  -4.87  | Pitch rate [º/s]:  0.70  | Yaw rate [º/s]:  1.05
+21:44:31.240 > Loop t1
+21:44:31.242 > Roll rate [º/s]:  -4.84  | Pitch rate [º/s]:  0.67  | Yaw rate [º/s]:  1.02
+21:44:31.293 > Loop t1
+21:44:31.296 > Roll rate [º/s]:  -4.84  | Pitch rate [º/s]:  0.67  | Yaw rate [º/s]:  1.04
+21:44:31.345 > Loop t1
+21:44:31.346 > Roll rate [º/s]:  -4.90  | Pitch rate [º/s]:  0.69  | Yaw rate [º/s]:  0.99
+21:44:31.397 > Loop t1
+21:44:31.399 > Roll rate [º/s]:  -4.84  | Pitch rate [º/s]:  0.69  | Yaw rate [º/s]:  1.04
+21:44:31.449 > Loop t1
+21:44:31.450 > Roll rate [º/s]:  -4.85  | Pitch rate [º/s]:  0.67  | Yaw rate [º/s]:  1.04
+21:44:31.501 > Loop t1
+21:44:31.503 > Roll rate [º/s]:  -4.85  | Pitch rate [º/s]:  0.67  | Yaw rate [º/s]:  1.01
+21:44:31.552 > Loop t1
+21:44:31.555 > Roll rate [º/s]:  -4.85  | Pitch rate [º/s]:  0.67  | Yaw rate [º/s]:  1.04
+21:44:31.604 > Loop t1
+21:44:31.606 > Roll rate [º/s]:  -4.87  | Pitch rate [º/s]:  0.70  | Yaw rate [º/s]:  1.08
+21:44:31.656 > Loop t1
+21:44:31.660 > Roll rate [º/s]:  -4.82  | Pitch rate [º/s]:  0.66  | Yaw rate [º/s]:  1.02
+21:44:31.708 > Loop t1
+21:44:31.711 > Roll rate [º/s]:  -4.87  | Pitch rate [º/s]:  0.67  | Yaw rate [º/s]:  0.99
+21:44:31.761 > Loop t1
+21:44:31.762 > Roll rate [º/s]:  -4.89  | Pitch rate [º/s]:  0.63  | Yaw rate [º/s]:  1.05
+21:44:31.814 > Loop t1
+21:44:31.815 > Roll rate [º/s]:  -4.85  | Pitch rate [º/s]:  0.63  | Yaw rate [º/s]:  1.01
+21:44:31.865 > Loop t1
+21:44:31.866 > Roll rate [º/s]:  -4.84  | Pitch rate [º/s]:  0.72  | Yaw rate [º/s]:  0.99
+21:44:31.917 > Loop t1
+21:44:31.918 > Roll rate [º/s]:  -4.85  | Pitch rate [º/s]:  0.67  | Yaw rate [º/s]:  1.04
+21:44:31.968 > Loop t1
+21:44:31.970 > Roll rate [º/s]:  -4.84  | Pitch rate [º/s]:  0.64  | Yaw rate [º/s]:  1.05
+21:44:32.020 > Loop t1
+21:44:32.022 > Roll rate [º/s]:  -4.85  | Pitch rate [º/s]:  0.64  | Yaw rate [º/s]:  0.98
+21:44:32.072 > Loop t1
+21:44:32.075 > Roll rate [º/s]:  -4.85  | Pitch rate [º/s]:  0.67  | Yaw rate [º/s]:  1.05
+21:44:32.124 > Loop t1
+21:44:32.126 > Roll rate [º/s]:  -4.89  | Pitch rate [º/s]:  0.70  | Yaw rate [º/s]:  1.02
+21:44:32.176 > Loop t1
+21:44:32.178 > Roll rate [º/s]:  -4.84  | Pitch rate [º/s]:  0.75  | Yaw rate [º/s]:  1.02
+21:44:32.228 > Loop t1
+21:44:32.230 > Roll rate [º/s]:  -4.85  | Pitch rate [º/s]:  0.69  | Yaw rate [º/s]:  1.01
+21:44:32.281 > Loop t1
+21:44:32.282 > Roll rate [º/s]:  -4.87  | Pitch rate [º/s]:  0.67  | Yaw rate [º/s]:  1.01
+21:44:32.333 > Loop t1
+21:44:32.334 > Roll rate [º/s]:  -4.90  | Pitch rate [º/s]:  0.66  | Yaw rate [º/s]:  1.01
+21:44:32.384 > Loop t1
+21:44:32.386 > Roll rate [º/s]:  -4.85  | Pitch rate [º/s]:  0.72  | Yaw rate [º/s]:  1.02
+21:44:32.436 > Loop t1
+21:44:32.439 > Roll rate [º/s]:  -4.85  | Pitch rate [º/s]:  0.66  | Yaw rate [º/s]:  1.07
+21:44:32.488 > Loop t1
+21:44:32.490 > Roll rate [º/s]:  -4.84  | Pitch rate [º/s]:  0.67  | Yaw rate [º/s]:  1.02
+21:44:32.541 > Loop t1
+21:44:32.542 > Roll rate [º/s]:  -4.87  | Pitch rate [º/s]:  0.70  | Yaw rate [º/s]:  1.02
+21:44:32.593 > Loop t1
+21:44:32.594 > Roll rate [º/s]:  -4.84  | Pitch rate [º/s]:  0.72  | Yaw rate [º/s]:  1.05
+21:44:32.644 > Loop t1
+21:44:32.646 > Roll rate [º/s]:  -4.84  | Pitch rate [º/s]:  0.66  | Yaw rate [º/s]:  1.04
+21:44:32.696 > Loop t1
+21:44:32.698 > Roll rate [º/s]:  -4.87  | Pitch rate [º/s]:  0.69  | Yaw rate [º/s]:  0.99
+21:44:32.749 > Loop t1
+21:44:32.750 > Roll rate [º/s]:  -4.84  | Pitch rate [º/s]:  0.69  | Yaw rate [º/s]:  1.04
+21:44:32.801 > Loop t1
+21:44:32.802 > Roll rate [º/s]:  -4.84  | Pitch rate [º/s]:  0.69  | Yaw rate [º/s]:  1.02
+21:44:32.853 > Loop t1
+21:44:32.854 > Roll rate [º/s]:  -4.89  | Pitch rate [º/s]:  0.69  | Yaw rate [º/s]:  1.01
+21:44:32.904 > Loop t1
+21:44:32.906 > Roll rate [º/s]:  -4.84  | Pitch rate [º/s]:  0.69  | Yaw rate [º/s]:  1.05
+21:44:32.957 > Loop t1
+21:44:32.959 > Roll rate [º/s]:  -4.85  | Pitch rate [º/s]:  0.67  | Yaw rate [º/s]:  0.98
+21:44:33.008 > Loop t1
+21:44:33.010 > Roll rate [º/s]:  -4.82  | Pitch rate [º/s]:  0.66  | Yaw rate [º/s]:  1.04
+21:44:33.061 > Loop t1
+21:44:33.063 > Roll rate [º/s]:  -4.87  | Pitch rate [º/s]:  0.70  | Yaw rate [º/s]:  1.07
+21:44:33.113 > Loop t1
+21:44:33.115 > Roll rate [º/s]:  -4.89  | Pitch rate [º/s]:  0.72  | Yaw rate [º/s]:  1.01
+21:44:33.165 > Loop t1
+21:44:33.167 > Roll rate [º/s]:  -4.87  | Pitch rate [º/s]:  0.66  | Yaw rate [º/s]:  1.01
+21:44:33.217 > Loop t1
+21:44:33.218 > Roll rate [º/s]:  -4.82  | Pitch rate [º/s]:  0.66  | Yaw rate [º/s]:  1.04
+21:44:33.271 > Loop t1
+21:44:33.272 > Roll rate [º/s]:  -4.82  | Pitch rate [º/s]:  0.67  | Yaw rate [º/s]:  1.02
+21:44:33.321 > Loop t1
+21:44:33.322 > Roll rate [º/s]:  -4.89  | Pitch rate [º/s]:  0.66  | Yaw rate [º/s]:  1.02
+21:44:33.373 > Loop t1
+21:44:33.375 > Roll rate [º/s]:  -4.84  | Pitch rate [º/s]:  0.72  | Yaw rate [º/s]:  1.02
+21:44:33.424 > Loop t1
+21:44:33.426 > Roll rate [º/s]:  -4.82  | Pitch rate [º/s]:  0.67  | Yaw rate [º/s]:  1.02
+21:44:33.476 > Loop t1
+21:44:33.478 > Roll rate [º/s]:  -4.85  | Pitch rate [º/s]:  0.72  | Yaw rate [º/s]:  0.99
+21:44:33.528 > Loop t1
+21:44:33.530 > Roll rate [º/s]:  -4.87  | Pitch rate [º/s]:  0.66  | Yaw rate [º/s]:  1.02
+21:44:33.580 > Loop t1
+21:44:33.582 > Roll rate [º/s]:  -4.90  | Pitch rate [º/s]:  0.69  | Yaw rate [º/s]:  1.04
+21:44:33.635 > Loop t1
+21:44:33.635 > Roll rate [º/s]:  -4.87  | Pitch rate [º/s]:  0.66  | Yaw rate [º/s]:  1.01
+21:44:33.684 > Loop t1
+21:44:33.686 > Roll rate [º/s]:  -4.90  | Pitch rate [º/s]:  0.69  | Yaw rate [º/s]:  1.02
+21:44:33.736 > Loop t1
+21:44:33.738 > Roll rate [º/s]:  -4.87  | Pitch rate [º/s]:  0.67  | Yaw rate [º/s]:  1.01
+21:44:33.788 > Loop t1
+21:44:33.790 > Roll rate [º/s]:  -4.90  | Pitch rate [º/s]:  0.69  | Yaw rate [º/s]:  1.02
+21:44:33.841 > Loop t1
+21:44:33.842 > Roll rate [º/s]:  -4.89  | Pitch rate [º/s]:  0.69  | Yaw rate [º/s]:  1.02
+21:44:33.892 > Loop t1
+21:44:33.894 > Roll rate [º/s]:  -4.92  | Pitch rate [º/s]:  0.66  | Yaw rate [º/s]:  0.99
+21:44:33.944 > Loop t1
+21:44:33.947 > Roll rate [º/s]:  -4.87  | Pitch rate [º/s]:  0.66  | Yaw rate [º/s]:  1.08
+21:44:33.997 > Loop t1
+21:44:33.999 > Roll rate [º/s]:  -4.85  | Pitch rate [º/s]:  0.67  | Yaw rate [º/s]:  0.96
+21:44:34.049 > Loop t1
+21:44:34.050 > Roll rate [º/s]:  -4.85  | Pitch rate [º/s]:  0.64  | Yaw rate [º/s]:  1.01
+21:44:34.101 > Loop t1
+21:44:34.102 > Roll rate [º/s]:  -4.82  | Pitch rate [º/s]:  0.75  | Yaw rate [º/s]:  1.04
+21:44:34.153 > Loop t1
+21:44:34.156 > Roll rate [º/s]:  -4.82  | Pitch rate [º/s]:  0.69  | Yaw rate [º/s]:  0.96
+21:44:34.205 > Loop t1
+21:44:34.206 > Roll rate [º/s]:  -4.89  | Pitch rate [º/s]:  0.70  | Yaw rate [º/s]:  1.05
+21:44:34.256 > Loop t1
+21:44:34.258 > Roll rate [º/s]:  -4.87  | Pitch rate [º/s]:  0.70  | Yaw rate [º/s]:  1.07
+21:44:34.309 > Loop t1
+21:44:34.310 > Roll rate [º/s]:  -4.84  | Pitch rate [º/s]:  0.66  | Yaw rate [º/s]:  1.05
+21:44:34.360 > Loop t1
+21:44:34.364 > Roll rate [º/s]:  -4.85  | Pitch rate [º/s]:  0.64  | Yaw rate [º/s]:  1.04
+21:44:34.413 > Loop t1
+21:44:34.414 > Roll rate [º/s]:  -4.85  | Pitch rate [º/s]:  0.66  | Yaw rate [º/s]:  0.99
+21:44:34.464 > Loop t1
+21:44:34.467 > Roll rate [º/s]:  -4.84  | Pitch rate [º/s]:  0.69  | Yaw rate [º/s]:  0.99
+21:44:34.516 > Loop t1
+21:44:34.519 > Roll rate [º/s]:  -4.87  | Pitch rate [º/s]:  0.66  | Yaw rate [º/s]:  1.08
+21:44:34.568 > Loop t1
+21:44:34.570 > Roll rate [º/s]:  -4.87  | Pitch rate [º/s]:  0.64  | Yaw rate [º/s]:  1.05
+21:44:34.620 > Loop t1
+21:44:34.624 > Roll rate [º/s]:  -4.85  | Pitch rate [º/s]:  0.64  | Yaw rate [º/s]:  1.02
+21:44:34.672 > Loop t1
+21:44:34.674 > Roll rate [º/s]:  -4.90  | Pitch rate [º/s]:  0.69  | Yaw rate [º/s]:  1.02
+21:44:34.725 > Loop t1
+21:44:34.727 > Roll rate [º/s]:  -4.84  | Pitch rate [º/s]:  0.70  | Yaw rate [º/s]:  0.96
+21:44:34.777 > Loop t1
+21:44:34.778 > Roll rate [º/s]:  -4.87  | Pitch rate [º/s]:  0.69  | Yaw rate [º/s]:  0.98
+21:44:34.829 > Loop t1
+21:44:34.830 > Roll rate [º/s]:  -4.87  | Pitch rate [º/s]:  0.70  | Yaw rate [º/s]:  1.07
+21:44:34.880 > Loop t1
+21:44:34.882 > Roll rate [º/s]:  -4.90  | Pitch rate [º/s]:  0.66  | Yaw rate [º/s]:  1.02
+21:44:34.932 > Loop t1
+21:44:34.935 > Roll rate [º/s]:  -4.90  | Pitch rate [º/s]:  0.69  | Yaw rate [º/s]:  1.02
+21:44:34.984 > Loop t1
+21:44:34.987 > Roll rate [º/s]:  -4.87  | Pitch rate [º/s]:  0.67  | Yaw rate [º/s]:  1.02
+21:44:35.037 > Loop t1
+21:44:35.038 > Roll rate [º/s]:  -4.87  | Pitch rate [º/s]:  0.67  | Yaw rate [º/s]:  1.01
+21:44:35.089 > Loop t1
+21:44:35.091 > Roll rate [º/s]:  -4.89  | Pitch rate [º/s]:  0.67  | Yaw rate [º/s]:  0.99
+21:44:35.140 > Loop t1
+21:44:35.142 > Roll rate [º/s]:  -4.89  | Pitch rate [º/s]:  0.69  | Yaw rate [º/s]:  1.04
+21:44:35.194 > Loop t1
+21:44:35.199 > Roll rate [º/s]:  -4.85  | Pitch rate [º/s]:  0.70  | Yaw rate [º/s]:  1.02
+21:44:35.244 > Loop t1
+21:44:35.246 > Roll rate [º/s]:  -4.89  | Pitch rate [º/s]:  0.70  | Yaw rate [º/s]:  1.04
+21:44:35.297 > Loop t1
+21:44:35.298 > Roll rate [º/s]:  -4.87  | Pitch rate [º/s]:  0.67  | Yaw rate [º/s]:  1.05
+21:44:35.348 > Loop t1
+21:44:35.350 > Roll rate [º/s]:  -4.84  | Pitch rate [º/s]:  0.66  | Yaw rate [º/s]:  1.02
+21:44:35.401 > Loop t1
+21:44:35.404 > Roll rate [º/s]:  -4.82  | Pitch rate [º/s]:  0.67  | Yaw rate [º/s]:  0.95
+21:44:35.452 > Loop t1
+21:44:35.455 > Roll rate [º/s]:  -4.84  | Pitch rate [º/s]:  0.69  | Yaw rate [º/s]:  1.07
+21:44:35.504 > Loop t1
+21:44:35.507 > Roll rate [º/s]:  -4.85  | Pitch rate [º/s]:  0.73  | Yaw rate [º/s]:  1.05
+21:44:35.557 > Loop t1
+21:44:35.559 > Roll rate [º/s]:  -4.89  | Pitch rate [º/s]:  0.64  | Yaw rate [º/s]:  0.95
+21:44:35.609 > Loop t1
+21:44:35.611 > Roll rate [º/s]:  -4.84  | Pitch rate [º/s]:  0.67  | Yaw rate [º/s]:  1.05
+21:44:35.661 > Loop t1
+21:44:35.663 > Roll rate [º/s]:  -4.84  | Pitch rate [º/s]:  0.75  | Yaw rate [º/s]:  1.04
+21:44:35.713 > Loop t1
+21:44:35.715 > Roll rate [º/s]:  -4.87  | Pitch rate [º/s]:  0.70  | Yaw rate [º/s]:  0.95
+21:44:35.764 > Loop t1
+21:44:35.766 > Roll rate [º/s]:  -4.87  | Pitch rate [º/s]:  0.70  | Yaw rate [º/s]:  1.02
+21:44:35.817 > Loop t1
+21:44:35.818 > Roll rate [º/s]:  -4.89  | Pitch rate [º/s]:  0.66  | Yaw rate [º/s]:  1.04
+21:44:35.868 > Loop t1
+21:44:35.870 > Roll rate [º/s]:  -4.87  | Pitch rate [º/s]:  0.69  | Yaw rate [º/s]:  0.98
+21:44:35.920 > Loop t1
+21:44:35.923 > Roll rate [º/s]:  -4.87  | Pitch rate [º/s]:  0.69  | Yaw rate [º/s]:  0.99
+21:44:35.972 > Loop t1
+21:44:35.976 > Roll rate [º/s]:  -4.87  | Pitch rate [º/s]:  0.73  | Yaw rate [º/s]:  1.07
+21:44:36.024 > Loop t1
+21:44:36.027 > Roll rate [º/s]:  -4.90  | Pitch rate [º/s]:  0.64  | Yaw rate [º/s]:  1.04
+21:44:36.076 > Loop t1
+21:44:36.078 > Roll rate [º/s]:  -4.89  | Pitch rate [º/s]:  0.64  | Yaw rate [º/s]:  1.01
+21:44:36.128 > Loop t1
+21:44:36.130 > Roll rate [º/s]:  -4.90  | Pitch rate [º/s]:  0.64  | Yaw rate [º/s]:  1.07
+21:44:36.181 > Loop t1
+21:44:36.183 > Roll rate [º/s]:  -4.82  | Pitch rate [º/s]:  0.72  | Yaw rate [º/s]:  0.99
+21:44:36.232 > Loop t1
+21:44:36.234 > Roll rate [º/s]:  -4.84  | Pitch rate [º/s]:  0.72  | Yaw rate [º/s]:  1.02
+21:44:36.284 > Loop t1
+21:44:36.286 > Roll rate [º/s]:  -4.84  | Pitch rate [º/s]:  0.73  | Yaw rate [º/s]:  1.02
+21:44:36.336 > Loop t1
+21:44:36.338 > Roll rate [º/s]:  -4.89  | Pitch rate [º/s]:  0.67  | Yaw rate [º/s]:  0.96
+21:44:36.388 > Loop t1
+21:44:36.391 > Roll rate [º/s]:  -4.89  | Pitch rate [º/s]:  0.67  | Yaw rate [º/s]:  0.95
+21:44:36.443 > Loop t1
+21:44:36.443 > Roll rate [º/s]:  -4.87  | Pitch rate [º/s]:  0.63  | Yaw rate [º/s]:  1.04
+21:44:36.492 > Loop t1
+21:44:36.495 > Roll rate [º/s]:  -4.84  | Pitch rate [º/s]:  0.72  | Yaw rate [º/s]:  0.99
+21:44:36.546 > Loop t1
+21:44:36.546 > Roll rate [º/s]:  -4.79  | Pitch rate [º/s]:  0.69  | Yaw rate [º/s]:  0.67
+21:44:36.598 > Loop t1
+21:44:36.599 > Roll rate [º/s]:  -4.81  | Pitch rate [º/s]:  0.75  | Yaw rate [º/s]:  1.11
+21:44:36.649 > Loop t1
+21:44:36.650 > Roll rate [º/s]:  -4.87  | Pitch rate [º/s]:  0.78  | Yaw rate [º/s]:  1.28
+21:44:36.702 > Loop t1
+21:44:36.702 > Roll rate [º/s]:  -4.95  | Pitch rate [º/s]:  0.78  | Yaw rate [º/s]:  1.11
+21:44:36.754 > Loop t1
+21:44:36.754 > Roll rate [º/s]:  -4.79  | Pitch rate [º/s]:  0.55  | Yaw rate [º/s]:  0.66
+21:44:36.804 > Loop t1
+21:44:36.806 > Roll rate [º/s]:  -4.82  | Pitch rate [º/s]:  0.58  | Yaw rate [º/s]:  1.53
+21:44:36.856 > Loop t1
+21:44:36.858 > Roll rate [º/s]:  -4.84  | Pitch rate [º/s]:  0.53  | Yaw rate [º/s]:  0.98
+21:44:36.908 > Loop t1
+21:44:36.910 > Roll rate [º/s]:  -4.89  | Pitch rate [º/s]:  0.66  | Yaw rate [º/s]:  0.60
+21:44:36.960 > Loop t1
+21:44:36.963 > Roll rate [º/s]:  -4.87  | Pitch rate [º/s]:  0.76  | Yaw rate [º/s]:  1.27
+21:44:37.012 > Loop t1
+21:44:37.015 > Roll rate [º/s]:  -4.92  | Pitch rate [º/s]:  0.78  | Yaw rate [º/s]:  1.11
+21:44:37.064 > Loop t1
+21:44:37.066 > Roll rate [º/s]:  -4.87  | Pitch rate [º/s]:  0.73  | Yaw rate [º/s]:  0.75
+21:44:37.117 > Loop t1
+21:44:37.118 > Roll rate [º/s]:  -4.90  | Pitch rate [º/s]:  0.63  | Yaw rate [º/s]:  1.63
+21:44:37.168 > Loop t1
+21:44:37.171 > Roll rate [º/s]:  -4.79  | Pitch rate [º/s]:  0.60  | Yaw rate [º/s]:  1.01
+21:44:37.220 > Loop t1
+21:44:37.222 > Roll rate [º/s]:  -4.81  | Pitch rate [º/s]:  0.60  | Yaw rate [º/s]:  0.55
+21:44:37.272 > Loop t1
+21:44:37.274 > Roll rate [º/s]:  -4.89  | Pitch rate [º/s]:  0.72  | Yaw rate [º/s]:  1.50
+21:44:37.324 > Loop t1
+21:44:37.326 > Roll rate [º/s]:  -4.89  | Pitch rate [º/s]:  0.70  | Yaw rate [º/s]:  0.96
+21:44:37.376 > Loop t1
+21:44:37.379 > Roll rate [º/s]:  -4.85  | Pitch rate [º/s]:  0.70  | Yaw rate [º/s]:  0.64
+21:44:37.428 > Loop t1
+21:44:37.430 > Roll rate [º/s]:  -4.92  | Pitch rate [º/s]:  0.69  | Yaw rate [º/s]:  1.44
+21:44:37.480 > Loop t1
+21:44:37.483 > Roll rate [º/s]:  -4.81  | Pitch rate [º/s]:  0.63  | Yaw rate [º/s]:  1.02
+21:44:37.532 > Loop t1
+21:44:37.535 > Roll rate [º/s]:  -4.84  | Pitch rate [º/s]:  0.63  | Yaw rate [º/s]:  0.67
+21:44:37.585 > Loop t1
+21:44:37.587 > Roll rate [º/s]:  -4.85  | Pitch rate [º/s]:  0.66  | Yaw rate [º/s]:  1.37
+21:44:37.636 > Loop t1
+21:44:37.638 > Roll rate [º/s]:  -4.89  | Pitch rate [º/s]:  0.69  | Yaw rate [º/s]:  1.05
+21:44:37.688 > Loop t1
+21:44:37.690 > Roll rate [º/s]:  -4.89  | Pitch rate [º/s]:  0.72  | Yaw rate [º/s]:  0.70
+21:44:37.740 > Loop t1
+21:44:37.743 > Roll rate [º/s]:  -4.87  | Pitch rate [º/s]:  0.72  | Yaw rate [º/s]:  1.33
+21:44:37.792 > Loop t1
+21:44:37.794 > Roll rate [º/s]:  -4.82  | Pitch rate [º/s]:  0.66  | Yaw rate [º/s]:  1.05
+21:44:37.844 > Loop t1
+21:44:37.847 > Roll rate [º/s]:  -4.85  | Pitch rate [º/s]:  0.64  | Yaw rate [º/s]:  0.76
+21:44:37.896 > Loop t1
+21:44:37.898 > Roll rate [º/s]:  -4.89  | Pitch rate [º/s]:  0.67  | Yaw rate [º/s]:  1.24
+21:44:37.949 > Loop t1
+21:44:37.951 > Roll rate [º/s]:  -4.89  | Pitch rate [º/s]:  0.66  | Yaw rate [º/s]:  1.01
+21:44:38.001 > Loop t1
+21:44:38.003 > Roll rate [º/s]:  -4.85  | Pitch rate [º/s]:  0.70  | Yaw rate [º/s]:  0.84
+21:44:38.052 > Loop t1
+21:44:38.055 > Roll rate [º/s]:  -4.87  | Pitch rate [º/s]:  0.70  | Yaw rate [º/s]:  1.25
+21:44:38.104 > Loop t1
+21:44:38.107 > Roll rate [º/s]:  -4.87  | Pitch rate [º/s]:  0.73  | Yaw rate [º/s]:  0.99
+21:44:38.156 > Loop t1
+21:44:38.159 > Roll rate [º/s]:  -4.85  | Pitch rate [º/s]:  0.70  | Yaw rate [º/s]:  0.84
+21:44:38.208 > Loop t1
+21:44:38.211 > Roll rate [º/s]:  -4.82  | Pitch rate [º/s]:  0.69  | Yaw rate [º/s]:  1.19
+21:44:38.260 > Loop t1
+21:44:38.262 > Roll rate [º/s]:  -4.87  | Pitch rate [º/s]:  0.69  | Yaw rate [º/s]:  1.05
+21:44:38.312 > Loop t1
+21:44:38.314 > Roll rate [º/s]:  -4.85  | Pitch rate [º/s]:  0.67  | Yaw rate [º/s]:  0.85
+21:44:38.364 > Loop t1
+21:44:38.367 > Roll rate [º/s]:  -4.85  | Pitch rate [º/s]:  0.75  | Yaw rate [º/s]:  1.22
+21:44:38.416 > Loop t1
+21:44:38.419 > Roll rate [º/s]:  -4.89  | Pitch rate [º/s]:  0.67  | Yaw rate [º/s]:  1.04
+21:44:38.469 > Loop t1
+21:44:38.471 > Roll rate [º/s]:  -4.89  | Pitch rate [º/s]:  0.69  | Yaw rate [º/s]:  0.82
+21:44:38.520 > Loop t1
+21:44:38.523 > Roll rate [º/s]:  -4.90  | Pitch rate [º/s]:  0.69  | Yaw rate [º/s]:  1.19
+21:44:38.573 > Loop t1
+21:44:38.575 > Roll rate [º/s]:  -4.89  | Pitch rate [º/s]:  0.69  | Yaw rate [º/s]:  1.05
+21:44:38.624 > Loop t1
+21:44:38.627 > Roll rate [º/s]:  -4.92  | Pitch rate [º/s]:  0.70  | Yaw rate [º/s]:  0.85
+21:44:38.676 > Loop t1
+21:44:38.678 > Roll rate [º/s]:  -4.87  | Pitch rate [º/s]:  0.66  | Yaw rate [º/s]:  1.19
+21:44:38.728 > Loop t1
+21:44:38.730 > Roll rate [º/s]:  -4.82  | Pitch rate [º/s]:  0.67  | Yaw rate [º/s]:  1.05
+21:44:38.780 > Loop t1
+21:44:38.782 > Roll rate [º/s]:  -4.85  | Pitch rate [º/s]:  0.67  | Yaw rate [º/s]:  0.82
+21:44:38.832 > Loop t1
+21:44:38.835 > Roll rate [º/s]:  -4.84  | Pitch rate [º/s]:  0.75  | Yaw rate [º/s]:  1.13
+21:44:38.884 > Loop t1
+21:44:38.887 > Roll rate [º/s]:  -4.89  | Pitch rate [º/s]:  0.69  | Yaw rate [º/s]:  1.07
+21:44:38.936 > Loop t1
+21:44:38.939 > Roll rate [º/s]:  -4.85  | Pitch rate [º/s]:  0.61  | Yaw rate [º/s]:  0.87
+21:44:38.989 > Loop t1
+21:44:38.991 > Roll rate [º/s]:  -4.87  | Pitch rate [º/s]:  0.66  | Yaw rate [º/s]:  1.16
+21:44:39.040 > Loop t1
+21:44:39.043 > Roll rate [º/s]:  -4.85  | Pitch rate [º/s]:  0.67  | Yaw rate [º/s]:  1.05
+21:44:39.093 > Loop t1
+21:44:39.095 > Roll rate [º/s]:  -4.89  | Pitch rate [º/s]:  0.70  | Yaw rate [º/s]:  0.87
+21:44:39.144 > Loop t1
+21:44:39.147 > Roll rate [º/s]:  -4.89  | Pitch rate [º/s]:  0.72  | Yaw rate [º/s]:  1.15
+21:44:39.196 > Loop t1
+21:44:39.199 > Roll rate [º/s]:  -4.84  | Pitch rate [º/s]:  0.67  | Yaw rate [º/s]:  1.04
+21:44:39.248 > Loop t1
+21:44:39.251 > Roll rate [º/s]:  -4.89  | Pitch rate [º/s]:  0.70  | Yaw rate [º/s]:  0.89
+21:44:39.300 > Loop t1
+21:44:39.303 > Roll rate [º/s]:  -4.87  | Pitch rate [º/s]:  0.67  | Yaw rate [º/s]:  1.15
+21:44:39.352 > Loop t1
+21:44:39.355 > Roll rate [º/s]:  -4.89  | Pitch rate [º/s]:  0.70  | Yaw rate [º/s]:  1.02
+21:44:39.404 > Loop t1
+21:44:39.407 > Roll rate [º/s]:  -4.89  | Pitch rate [º/s]:  0.72  | Yaw rate [º/s]:  0.93
+21:44:39.458 > Loop t1
+21:44:39.459 > Roll rate [º/s]:  -4.89  | Pitch rate [º/s]:  0.72  | Yaw rate [º/s]:  1.15
+21:44:39.508 > Loop t1
+21:44:39.512 > Roll rate [º/s]:  -4.89  | Pitch rate [º/s]:  0.76  | Yaw rate [º/s]:  1.04
+21:44:39.561 > Loop t1
+21:44:39.563 > Roll rate [º/s]:  -4.87  | Pitch rate [º/s]:  0.69  | Yaw rate [º/s]:  0.98
+21:44:39.613 > Loop t1
+21:44:39.616 > Roll rate [º/s]:  -4.82  | Pitch rate [º/s]:  0.72  | Yaw rate [º/s]:  1.11
+21:44:39.666 > Loop t1
+21:44:39.667 > Roll rate [º/s]:  -4.84  | Pitch rate [º/s]:  0.66  | Yaw rate [º/s]:  1.05
+21:44:39.716 > Loop t1
+21:44:39.719 > Roll rate [º/s]:  -4.84  | Pitch rate [º/s]:  0.63  | Yaw rate [º/s]:  0.95
+21:44:39.768 > Loop t1
+21:44:39.771 > Roll rate [º/s]:  -4.87  | Pitch rate [º/s]:  0.69  | Yaw rate [º/s]:  1.08
+21:44:39.821 > Loop t1
+21:44:39.827 > Roll rate [º/s]:  -4.89  | Pitch rate [º/s]:  0.67  | Yaw rate [º/s]:  1.02
+21:44:39.872 > Loop t1
+21:44:39.876 > Roll rate [º/s]:  -4.87  | Pitch rate [º/s]:  0.70  | Yaw rate [º/s]:  0.96
+21:44:39.924 > Loop t1
+21:44:39.927 > Roll rate [º/s]:  -4.84  | Pitch rate [º/s]:  0.73  | Yaw rate [º/s]:  1.11
+21:44:39.977 > Loop t1
+21:44:39.981 > Roll rate [º/s]:  -4.84  | Pitch rate [º/s]:  0.67  | Yaw rate [º/s]:  1.04
+21:44:40.029 > Loop t1
+21:44:40.031 > Roll rate [º/s]:  -4.85  | Pitch rate [º/s]:  0.72  | Yaw rate [º/s]:  0.96
+21:44:40.080 > Loop t1
+21:44:40.083 > Roll rate [º/s]:  -4.87  | Pitch rate [º/s]:  0.67  | Yaw rate [º/s]:  1.08
+21:44:40.133 > Loop t1
+21:44:40.136 > Roll rate [º/s]:  -4.85  | Pitch rate [º/s]:  0.72  | Yaw rate [º/s]:  1.05
+21:44:40.186 > Loop t1
+21:44:40.187 > Roll rate [º/s]:  -4.85  | Pitch rate [º/s]:  0.66  | Yaw rate [º/s]:  0.96
+21:44:40.236 > Loop t1
+21:44:40.239 > Roll rate [º/s]:  -4.84  | Pitch rate [º/s]:  0.67  | Yaw rate [º/s]:  1.08
+21:44:40.288 > Loop t1
+21:44:40.291 > Roll rate [º/s]:  -4.87  | Pitch rate [º/s]:  0.69  | Yaw rate [º/s]:  1.01
+21:44:40.343 > Loop t1
+21:44:40.343 > Roll rate [º/s]:  -4.90  | Pitch rate [º/s]:  0.67  | Yaw rate [º/s]:  0.98
+21:44:40.396 > Loop t1
+21:44:40.396 > Roll rate [º/s]:  -4.84  | Pitch rate [º/s]:  0.70  | Yaw rate [º/s]:  1.07
+21:44:40.447 > Loop t1
+21:44:40.451 > Roll rate [º/s]:  -4.85  | Pitch rate [º/s]:  0.67  | Yaw rate [º/s]:  1.02
+21:44:40.496 > Loop t1
+21:44:40.499 > Roll rate [º/s]:  -4.85  | Pitch rate [º/s]:  0.67  | Yaw rate [º/s]:  1.05
+21:44:40.548 > Loop t1
+21:44:40.551 > Roll rate [º/s]:  -4.90  | Pitch rate [º/s]:  0.69  | Yaw rate [º/s]:  1.11
+21:44:40.600 > Loop t1
+21:44:40.603 > Roll rate [º/s]:  -4.89  | Pitch rate [º/s]:  0.70  | Yaw rate [º/s]:  1.02
+21:44:40.652 > Loop t1
+21:44:40.655 > Roll rate [º/s]:  -4.87  | Pitch rate [º/s]:  0.73  | Yaw rate [º/s]:  0.96
+21:44:40.704 > Loop t1
+21:44:40.707 > Roll rate [º/s]:  -4.89  | Pitch rate [º/s]:  0.69  | Yaw rate [º/s]:  1.10
+21:44:40.756 > Loop t1
+21:44:40.759 > Roll rate [º/s]:  -4.87  | Pitch rate [º/s]:  0.66  | Yaw rate [º/s]:  0.98
+21:44:40.808 > Loop t1
+21:44:40.811 > Roll rate [º/s]:  -4.87  | Pitch rate [º/s]:  0.64  | Yaw rate [º/s]:  1.02
+21:44:40.860 > Loop t1
+21:44:40.863 > Roll rate [º/s]:  -4.89  | Pitch rate [º/s]:  0.66  | Yaw rate [º/s]:  1.07
+21:44:40.912 > Loop t1
+21:44:40.915 > Roll rate [º/s]:  -4.90  | Pitch rate [º/s]:  0.70  | Yaw rate [º/s]:  0.98
+21:44:40.964 > Loop t1
+21:44:40.967 > Roll rate [º/s]:  -4.84  | Pitch rate [º/s]:  0.69  | Yaw rate [º/s]:  0.99
+21:44:41.016 > Loop t1
+21:44:41.019 > Roll rate [º/s]:  -4.89  | Pitch rate [º/s]:  0.73  | Yaw rate [º/s]:  1.10
+21:44:41.068 > Loop t1
+21:44:41.071 > Roll rate [º/s]:  -4.87  | Pitch rate [º/s]:  0.70  | Yaw rate [º/s]:  0.96
+21:44:41.120 > Loop t1
+21:44:41.123 > Roll rate [º/s]:  -4.84  | Pitch rate [º/s]:  0.69  | Yaw rate [º/s]:  0.98
+21:44:41.172 > Loop t1
+21:44:41.175 > Roll rate [º/s]:  -4.89  | Pitch rate [º/s]:  0.64  | Yaw rate [º/s]:  1.08
+21:44:41.224 > Loop t1
+21:44:41.227 > Roll rate [º/s]:  -4.85  | Pitch rate [º/s]:  0.67  | Yaw rate [º/s]:  0.99
+21:44:41.276 > Loop t1
+21:44:41.279 > Roll rate [º/s]:  -4.85  | Pitch rate [º/s]:  0.67  | Yaw rate [º/s]:  1.01
+21:44:41.328 > Loop t1
+21:44:41.331 > Roll rate [º/s]:  -4.89  | Pitch rate [º/s]:  0.67  | Yaw rate [º/s]:  1.05
+21:44:41.381 > Loop t1
+21:44:41.383 > Roll rate [º/s]:  -4.85  | Pitch rate [º/s]:  0.69  | Yaw rate [º/s]:  0.99
+21:44:41.432 > Loop t1
+21:44:41.435 > Roll rate [º/s]:  -4.84  | Pitch rate [º/s]:  0.69  | Yaw rate [º/s]:  1.04
+21:44:41.484 > Loop t1
+21:44:41.487 > Roll rate [º/s]:  -4.87  | Pitch rate [º/s]:  0.69  | Yaw rate [º/s]:  1.05
+21:44:41.536 > Loop t1
+21:44:41.539 > Roll rate [º/s]:  -4.85  | Pitch rate [º/s]:  0.73  | Yaw rate [º/s]:  1.01
+21:44:41.588 > Loop t1
+21:44:41.591 > Roll rate [º/s]:  -4.87  | Pitch rate [º/s]:  0.67  | Yaw rate [º/s]:  0.99
+21:44:41.640 > Loop t1
+21:44:41.643 > Roll rate [º/s]:  -4.85  | Pitch rate [º/s]:  0.61  | Yaw rate [º/s]:  1.07
+21:44:41.692 > Loop t1
+21:44:41.695 > Roll rate [º/s]:  -4.87  | Pitch rate [º/s]:  0.67  | Yaw rate [º/s]:  1.01
+21:44:41.744 > Loop t1
+21:44:41.747 > Roll rate [º/s]:  -4.87  | Pitch rate [º/s]:  0.67  | Yaw rate [º/s]:  0.99
+21:44:41.797 > Loop t1
+21:44:41.799 > Roll rate [º/s]:  -4.85  | Pitch rate [º/s]:  0.70  | Yaw rate [º/s]:  1.02
+21:44:41.848 > Loop t1
+21:44:41.851 > Roll rate [º/s]:  -4.87  | Pitch rate [º/s]:  0.66  | Yaw rate [º/s]:  0.99
+21:44:41.901 > Loop t1
+21:44:41.903 > Roll rate [º/s]:  -4.85  | Pitch rate [º/s]:  0.66  | Yaw rate [º/s]:  1.02
+21:44:41.952 > Loop t1
+21:44:41.955 > Roll rate [º/s]:  -4.87  | Pitch rate [º/s]:  0.67  | Yaw rate [º/s]:  1.04
+21:44:42.004 > Loop t1
+21:44:42.007 > Roll rate [º/s]:  -4.85  | Pitch rate [º/s]:  0.66  | Yaw rate [º/s]:  1.05
+21:44:42.056 > Loop t1
+21:44:42.059 > Roll rate [º/s]:  -4.89  | Pitch rate [º/s]:  0.67  | Yaw rate [º/s]:  0.98
+21:44:42.108 > Loop t1
+21:44:42.111 > Roll rate [º/s]:  -4.85  | Pitch rate [º/s]:  0.69  | Yaw rate [º/s]:  1.04
+21:44:42.160 > Loop t1
+21:44:42.163 > Roll rate [º/s]:  -4.89  | Pitch rate [º/s]:  0.70  | Yaw rate [º/s]:  1.05
+21:44:42.212 > Loop t1
+21:44:42.215 > Roll rate [º/s]:  -4.89  | Pitch rate [º/s]:  0.69  | Yaw rate [º/s]:  0.98
+21:44:42.264 > Loop t1
+21:44:42.267 > Roll rate [º/s]:  -4.85  | Pitch rate [º/s]:  0.66  | Yaw rate [º/s]:  1.02
+21:44:42.317 > Loop t1
+21:44:42.319 > Roll rate [º/s]:  -4.84  | Pitch rate [º/s]:  0.69  | Yaw rate [º/s]:  1.04
+21:44:42.368 > Loop t1
+21:44:42.371 > Roll rate [º/s]:  -4.82  | Pitch rate [º/s]:  0.67  | Yaw rate [º/s]:  0.99
+21:44:42.420 > Loop t1
+21:44:42.423 > Roll rate [º/s]:  -4.90  | Pitch rate [º/s]:  0.70  | Yaw rate [º/s]:  1.02
+21:44:42.472 > Loop t1
+21:44:42.475 > Roll rate [º/s]:  -4.87  | Pitch rate [º/s]:  0.75  | Yaw rate [º/s]:  1.02
+21:44:42.524 > Loop t1
+21:44:42.527 > Roll rate [º/s]:  -4.84  | Pitch rate [º/s]:  0.66  | Yaw rate [º/s]:  1.01
+21:44:42.576 > Loop t1
+21:44:42.579 > Roll rate [º/s]:  -4.87  | Pitch rate [º/s]:  0.66  | Yaw rate [º/s]:  1.01
+21:44:42.628 > Loop t1
+21:44:42.631 > Roll rate [º/s]:  -4.87  | Pitch rate [º/s]:  0.64  | Yaw rate [º/s]:  1.07
+21:44:42.680 > Loop t1
+21:44:42.683 > Roll rate [º/s]:  -4.85  | Pitch rate [º/s]:  0.70  | Yaw rate [º/s]:  1.01
+21:44:42.732 > Loop t1
+21:44:42.735 > Roll rate [º/s]:  -4.85  | Pitch rate [º/s]:  0.69  | Yaw rate [º/s]:  1.04
+21:44:42.784 > Loop t1
+21:44:42.787 > Roll rate [º/s]:  -4.84  | Pitch rate [º/s]:  0.67  | Yaw rate [º/s]:  1.07
+21:44:42.837 > Loop t1
+21:44:42.839 > Roll rate [º/s]:  -4.85  | Pitch rate [º/s]:  0.69  | Yaw rate [º/s]:  0.98
+21:44:42.888 > Loop t1
+21:44:42.891 > Roll rate [º/s]:  -4.93  | Pitch rate [º/s]:  0.63  | Yaw rate [º/s]:  1.01
+21:44:42.940 > Loop t1
+21:44:42.943 > Roll rate [º/s]:  -4.87  | Pitch rate [º/s]:  0.64  | Yaw rate [º/s]:  1.05
+21:44:42.994 > Loop t1
+21:44:42.995 > Roll rate [º/s]:  -4.85  | Pitch rate [º/s]:  0.67  | Yaw rate [º/s]:  0.99
+21:44:43.044 > Loop t1
+21:44:43.047 > Roll rate [º/s]:  -4.87  | Pitch rate [º/s]:  0.70  | Yaw rate [º/s]:  1.04
+21:44:43.096 > Loop t1
+21:44:43.099 > Roll rate [º/s]:  -4.85  | Pitch rate [º/s]:  0.72  | Yaw rate [º/s]:  1.05
+21:44:43.148 > Loop t1
+21:44:43.151 > Roll rate [º/s]:  -4.90  | Pitch rate [º/s]:  0.69  | Yaw rate [º/s]:  0.98
+21:44:43.200 > Loop t1
+21:44:43.203 > Roll rate [º/s]:  -4.89  | Pitch rate [º/s]:  0.69  | Yaw rate [º/s]:  0.98
+21:44:43.252 > Loop t1
+21:44:43.255 > Roll rate [º/s]:  -4.89  | Pitch rate [º/s]:  0.69  | Yaw rate [º/s]:  1.02
+21:44:43.304 > Loop t1
+21:44:43.307 > Roll rate [º/s]:  -4.85  | Pitch rate [º/s]:  0.69  | Yaw rate [º/s]:  1.01
+21:44:43.356 > Loop t1
+21:44:43.359 > Roll rate [º/s]:  -4.89  | Pitch rate [º/s]:  0.70  | Yaw rate [º/s]:  1.04
+21:44:43.408 > Loop t1
+21:44:43.411 > Roll rate [º/s]:  -4.87  | Pitch rate [º/s]:  0.72  | Yaw rate [º/s]:  1.05
+21:44:43.460 > Loop t1
+21:44:43.463 > Roll rate [º/s]:  -4.85  | Pitch rate [º/s]:  0.72  | Yaw rate [º/s]:  0.99
+21:44:43.512 > Loop t1
+21:44:43.515 > Roll rate [º/s]:  -4.85  | Pitch rate [º/s]:  0.64  | Yaw rate [º/s]:  1.01
+21:44:43.564 > Loop t1
+21:44:43.567 > Roll rate [º/s]:  -4.85  | Pitch rate [º/s]:  0.69  | Yaw rate [º/s]:  1.04
+21:44:43.616 > Loop t1
+21:44:43.619 > Roll rate [º/s]:  -4.92  | Pitch rate [º/s]:  0.66  | Yaw rate [º/s]:  1.01
+21:44:43.668 > Loop t1
+21:44:43.671 > Roll rate [º/s]:  -4.89  | Pitch rate [º/s]:  0.64  | Yaw rate [º/s]:  1.04
+21:44:43.720 > Loop t1
+21:44:43.723 > Roll rate [º/s]:  -4.85  | Pitch rate [º/s]:  0.75  | Yaw rate [º/s]:  1.02
+21:44:43.772 > Loop t1
+21:44:43.775 > Roll rate [º/s]:  -4.87  | Pitch rate [º/s]:  0.67  | Yaw rate [º/s]:  1.02
+21:44:43.824 > Loop t1
+21:44:43.827 > Roll rate [º/s]:  -4.87  | Pitch rate [º/s]:  0.70  | Yaw rate [º/s]:  1.02
+21:44:43.876 > Loop t1
+21:44:43.879 > Roll rate [º/s]:  -4.85  | Pitch rate [º/s]:  0.73  | Yaw rate [º/s]:  1.02
+21:44:43.928 > Loop t1
+21:44:43.931 > Roll rate [º/s]:  -4.87  | Pitch rate [º/s]:  0.72  | Yaw rate [º/s]:  1.01
+21:44:43.980 > Loop t1
+21:44:43.983 > Roll rate [º/s]:  -4.89  | Pitch rate [º/s]:  0.72  | Yaw rate [º/s]:  0.99
+21:44:44.032 > Loop t1
+21:44:44.035 > Roll rate [º/s]:  -4.90  | Pitch rate [º/s]:  0.69  | Yaw rate [º/s]:  1.07
+21:44:44.084 > Loop t1
+21:44:44.087 > Roll rate [º/s]:  -4.84  | Pitch rate [º/s]:  0.72  | Yaw rate [º/s]:  1.02
+21:44:44.136 > Loop t1
+21:44:44.139 > Roll rate [º/s]:  -4.85  | Pitch rate [º/s]:  0.70  | Yaw rate [º/s]:  1.07
+21:44:44.188 > Loop t1
+21:44:44.191 > Roll rate [º/s]:  -4.84  | Pitch rate [º/s]:  0.63  | Yaw rate [º/s]:  1.02
+21:44:44.240 > Loop t1
+21:44:44.243 > Roll rate [º/s]:  -4.85  | Pitch rate [º/s]:  0.69  | Yaw rate [º/s]:  1.01
+21:44:44.292 > Loop t1
+21:44:44.295 > Roll rate [º/s]:  -4.89  | Pitch rate [º/s]:  0.69  | Yaw rate [º/s]:  1.02
+21:44:44.344 > Loop t1
+21:44:44.347 > Roll rate [º/s]:  -4.87  | Pitch rate [º/s]:  0.67  | Yaw rate [º/s]:  1.04
+21:44:44.396 > Loop t1
+21:44:44.399 > Roll rate [º/s]:  -4.89  | Pitch rate [º/s]:  0.67  | Yaw rate [º/s]:  1.07
+21:44:44.448 > Loop t1
+21:44:44.451 > Roll rate [º/s]:  -4.85  | Pitch rate [º/s]:  0.64  | Yaw rate [º/s]:  1.02
+21:44:44.500 > Loop t1
+21:44:44.503 > Roll rate [º/s]:  -4.84  | Pitch rate [º/s]:  0.63  | Yaw rate [º/s]:  1.02
+21:44:44.552 > Loop t1
+21:44:44.555 > Roll rate [º/s]:  -4.90  | Pitch rate [º/s]:  0.67  | Yaw rate [º/s]:  1.01
+21:44:44.604 > Loop t1
+21:44:44.607 > Roll rate [º/s]:  -4.84  | Pitch rate [º/s]:  0.66  | Yaw rate [º/s]:  0.99
+21:44:44.656 > Loop t1
+21:44:44.659 > Roll rate [º/s]:  -4.87  | Pitch rate [º/s]:  0.66  | Yaw rate [º/s]:  1.05
+21:44:44.708 > Loop t1
+21:44:44.711 > Roll rate [º/s]:  -4.82  | Pitch rate [º/s]:  0.69  | Yaw rate [º/s]:  1.02
+21:44:44.760 > Loop t1
+21:44:44.763 > Roll rate [º/s]:  -4.89  | Pitch rate [º/s]:  0.72  | Yaw rate [º/s]:  1.02
+21:44:44.812 > Loop t1
+21:44:44.815 > Roll rate [º/s]:  -4.87  | Pitch rate [º/s]:  0.67  | Yaw rate [º/s]:  1.05
+21:44:44.864 > Loop t1
+21:44:44.867 > Roll rate [º/s]:  -4.89  | Pitch rate [º/s]:  0.69  | Yaw rate [º/s]:  1.04
+21:44:44.916 > Loop t1
+21:44:44.919 > Roll rate [º/s]:  -4.82  | Pitch rate [º/s]:  0.69  | Yaw rate [º/s]:  0.99
+21:44:44.968 > Loop t1
+21:44:44.971 > Roll rate [º/s]:  -4.84  | Pitch rate [º/s]:  0.69  | Yaw rate [º/s]:  1.02
+21:44:45.020 > Loop t1
+21:44:45.023 > Roll rate [º/s]:  -4.87  | Pitch rate [º/s]:  0.69  | Yaw rate [º/s]:  1.04
+21:44:45.072 > Loop t1
+21:44:45.075 > Roll rate [º/s]:  -4.87  | Pitch rate [º/s]:  0.67  | Yaw rate [º/s]:  1.02
+21:44:45.124 > Loop t1
+21:44:45.127 > Roll rate [º/s]:  -4.85  | Pitch rate [º/s]:  0.67  | Yaw rate [º/s]:  0.96
+21:44:45.176 > Loop t1
+21:44:45.179 > Roll rate [º/s]:  -4.89  | Pitch rate [º/s]:  0.66  | Yaw rate [º/s]:  1.04
+21:44:45.228 > Loop t1
+21:44:45.231 > Roll rate [º/s]:  -4.85  | Pitch rate [º/s]:  0.69  | Yaw rate [º/s]:  0.96
+21:44:45.280 > Loop t1
+21:44:45.283 > Roll rate [º/s]:  -4.85  | Pitch rate [º/s]:  0.70  | Yaw rate [º/s]:  1.04
+21:44:45.332 > Loop t1
+21:44:45.335 > Roll rate [º/s]:  -4.87  | Pitch rate [º/s]:  0.72  | Yaw rate [º/s]:  1.01
+21:44:45.384 > Loop t1
+21:44:45.387 > Roll rate [º/s]:  -4.85  | Pitch rate [º/s]:  0.64  | Yaw rate [º/s]:  1.02
+21:44:45.436 > Loop t1
+21:44:45.439 > Roll rate [º/s]:  -4.90  | Pitch rate [º/s]:  0.67  | Yaw rate [º/s]:  1.05
+21:44:45.488 > Loop t1
+21:44:45.491 > Roll rate [º/s]:  -4.89  | Pitch rate [º/s]:  0.67  | Yaw rate [º/s]:  1.02
+21:44:45.541 > Loop t1
+21:44:45.543 > Roll rate [º/s]:  -4.84  | Pitch rate [º/s]:  0.70  | Yaw rate [º/s]:  1.04
+21:44:45.592 > Loop t1
+21:44:45.595 > Roll rate [º/s]:  -4.82  | Pitch rate [º/s]:  0.66  | Yaw rate [º/s]:  1.04
+21:44:45.644 > Loop t1
+21:44:45.647 > Roll rate [º/s]:  -4.85  | Pitch rate [º/s]:  0.69  | Yaw rate [º/s]:  1.10
+21:44:45.697 > Loop t1
+21:44:45.699 > Roll rate [º/s]:  -4.84  | Pitch rate [º/s]:  0.66  | Yaw rate [º/s]:  1.01
+21:44:45.748 > Loop t1
+21:44:45.751 > Roll rate [º/s]:  -4.87  | Pitch rate [º/s]:  0.67  | Yaw rate [º/s]:  1.07
+21:44:45.800 > Loop t1
+21:44:45.803 > Roll rate [º/s]:  -4.87  | Pitch rate [º/s]:  0.72  | Yaw rate [º/s]:  1.04
+21:44:45.852 > Loop t1
+21:44:45.855 > Roll rate [º/s]:  -4.84  | Pitch rate [º/s]:  0.69  | Yaw rate [º/s]:  0.99
+21:44:45.904 > Loop t1
+21:44:45.907 > Roll rate [º/s]:  -4.85  | Pitch rate [º/s]:  0.75  | Yaw rate [º/s]:  1.07
+21:44:45.956 > Loop t1
+21:44:45.959 > Roll rate [º/s]:  -4.85  | Pitch rate [º/s]:  0.67  | Yaw rate [º/s]:  1.02
+21:44:46.008 > Loop t1
+21:44:46.011 > Roll rate [º/s]:  -4.87  | Pitch rate [º/s]:  0.72  | Yaw rate [º/s]:  1.01
+21:44:46.060 > Loop t1
+21:44:46.062 > Roll rate [º/s]:  -4.85  | Pitch rate [º/s]:  0.66  | Yaw rate [º/s]:  1.02
+21:44:46.112 > Loop t1
+21:44:46.114 > Roll rate [º/s]:  -4.90  | Pitch rate [º/s]:  0.67  | Yaw rate [º/s]:  1.01
+21:44:46.164 > Loop t1
+21:44:46.166 > Roll rate [º/s]:  -4.87  | Pitch rate [º/s]:  0.73  | Yaw rate [º/s]:  0.99
+21:44:46.216 > Loop t1
+21:44:46.218 > Roll rate [º/s]:  -4.85  | Pitch rate [º/s]:  0.70  | Yaw rate [º/s]:  1.04
+21:44:46.268 > Loop t1
+21:44:46.270 > Roll rate [º/s]:  -4.85  | Pitch rate [º/s]:  0.69  | Yaw rate [º/s]:  1.01
+21:44:46.320 > Loop t1
+21:44:46.322 > Roll rate [º/s]:  -4.85  | Pitch rate [º/s]:  0.67  | Yaw rate [º/s]:  1.04
+21:44:46.372 > Loop t1
+21:44:46.374 > Roll rate [º/s]:  -4.90  | Pitch rate [º/s]:  0.73  | Yaw rate [º/s]:  1.02
+21:44:46.425 > Loop t1
+21:44:46.426 > Roll rate [º/s]:  -4.89  | Pitch rate [º/s]:  0.66  | Yaw rate [º/s]:  1.04
+21:44:46.476 > Loop t1
+21:44:46.478 > Roll rate [º/s]:  -4.87  | Pitch rate [º/s]:  0.61  | Yaw rate [º/s]:  1.02
+21:44:46.528 > Loop t1
+21:44:46.530 > Roll rate [º/s]:  -4.82  | Pitch rate [º/s]:  0.70  | Yaw rate [º/s]:  1.04
+21:44:46.580 > Loop t1
+21:44:46.582 > Roll rate [º/s]:  -4.87  | Pitch rate [º/s]:  0.67  | Yaw rate [º/s]:  1.04
+21:44:46.632 > Loop t1
+21:44:46.634 > Roll rate [º/s]:  -4.84  | Pitch rate [º/s]:  0.64  | Yaw rate [º/s]:  1.05
+21:44:46.684 > Loop t1
+21:44:46.686 > Roll rate [º/s]:  -4.84  | Pitch rate [º/s]:  0.72  | Yaw rate [º/s]:  1.08
+21:44:46.736 > Loop t1
+21:44:46.738 > Roll rate [º/s]:  -4.87  | Pitch rate [º/s]:  0.72  | Yaw rate [º/s]:  1.01
+21:44:46.788 > Loop t1
+21:44:46.791 > Roll rate [º/s]:  -4.85  | Pitch rate [º/s]:  0.66  | Yaw rate [º/s]:  1.05
+21:44:46.840 > Loop t1
+21:44:46.842 > Roll rate [º/s]:  -4.89  | Pitch rate [º/s]:  0.66  | Yaw rate [º/s]:  1.08
+21:44:46.892 > Loop t1
+21:44:46.894 > Roll rate [º/s]:  -4.87  | Pitch rate [º/s]:  0.64  | Yaw rate [º/s]:  1.04
+21:44:46.944 > Loop t1
+21:44:46.946 > Roll rate [º/s]:  -4.84  | Pitch rate [º/s]:  0.70  | Yaw rate [º/s]:  1.04
+21:44:46.996 > Loop t1
+21:44:46.998 > Roll rate [º/s]:  -4.87  | Pitch rate [º/s]:  0.67  | Yaw rate [º/s]:  1.04
+21:44:47.048 > Loop t1
+21:44:47.050 > Roll rate [º/s]:  -4.84  | Pitch rate [º/s]:  0.73  | Yaw rate [º/s]:  1.01
+21:44:47.100 > Loop t1
+21:44:47.102 > Roll rate [º/s]:  -4.89  | Pitch rate [º/s]:  0.67  | Yaw rate [º/s]:  1.02
+21:44:47.153 > Loop t1
+21:44:47.154 > Roll rate [º/s]:  -4.85  | Pitch rate [º/s]:  0.73  | Yaw rate [º/s]:  1.02
+21:44:47.204 > Loop t1
+21:44:47.206 > Roll rate [º/s]:  -4.87  | Pitch rate [º/s]:  0.67  | Yaw rate [º/s]:  1.01
+21:44:47.256 > Loop t1
+21:44:47.258 > Roll rate [º/s]:  -4.87  | Pitch rate [º/s]:  0.69  | Yaw rate [º/s]:  1.02
+21:44:47.308 > Loop t1
+21:44:47.310 > Roll rate [º/s]:  -4.87  | Pitch rate [º/s]:  0.67  | Yaw rate [º/s]:  1.04
+21:44:47.360 > Loop t1
+21:44:47.362 > Roll rate [º/s]:  -4.89  | Pitch rate [º/s]:  0.64  | Yaw rate [º/s]:  1.02
+21:44:47.412 > Loop t1
+21:44:47.414 > Roll rate [º/s]:  -4.85  | Pitch rate [º/s]:  0.67  | Yaw rate [º/s]:  1.05
+21:44:47.464 > Loop t1
+21:44:47.466 > Roll rate [º/s]:  -4.82  | Pitch rate [º/s]:  0.70  | Yaw rate [º/s]:  1.01
+21:44:47.516 > Loop t1
+21:44:47.518 > Roll rate [º/s]:  -4.87  | Pitch rate [º/s]:  0.64  | Yaw rate [º/s]:  1.02
+21:44:47.568 > Loop t1
+21:44:47.570 > Roll rate [º/s]:  -4.87  | Pitch rate [º/s]:  0.70  | Yaw rate [º/s]:  1.02
+21:44:47.620 > Loop t1
+21:44:47.622 > Roll rate [º/s]:  -4.85  | Pitch rate [º/s]:  0.70  | Yaw rate [º/s]:  1.04
+21:44:47.672 > Loop t1
+21:44:47.674 > Roll rate [º/s]:  -4.85  | Pitch rate [º/s]:  0.72  | Yaw rate [º/s]:  1.04
+21:44:47.724 > Loop t1
+21:44:47.726 > Roll rate [º/s]:  -4.84  | Pitch rate [º/s]:  0.64  | Yaw rate [º/s]:  1.01
+21:44:47.776 > Loop t1
+21:44:47.778 > Roll rate [º/s]:  -4.85  | Pitch rate [º/s]:  0.67  | Yaw rate [º/s]:  1.04
+21:44:47.828 > Loop t1
+21:44:47.830 > Roll rate [º/s]:  -4.87  | Pitch rate [º/s]:  0.72  | Yaw rate [º/s]:  0.99
+21:44:47.880 > Loop t1
+21:44:47.882 > Roll rate [º/s]:  -4.89  | Pitch rate [º/s]:  0.70  | Yaw rate [º/s]:  1.05
+21:44:47.932 > Loop t1
+21:44:47.934 > Roll rate [º/s]:  -4.85  | Pitch rate [º/s]:  0.66  | Yaw rate [º/s]:  1.02
+21:44:47.984 > Loop t1
+21:44:47.986 > Roll rate [º/s]:  -4.84  | Pitch rate [º/s]:  0.64  | Yaw rate [º/s]:  0.99
+21:44:48.036 > Loop t1
+21:44:48.038 > Roll rate [º/s]:  -4.89  | Pitch rate [º/s]:  0.69  | Yaw rate [º/s]:  1.04
+21:44:48.088 > Loop t1
+21:44:48.090 > Roll rate [º/s]:  -4.85  | Pitch rate [º/s]:  0.66  | Yaw rate [º/s]:  1.04
+21:44:48.141 > Loop t1
+21:44:48.142 > Roll rate [º/s]:  -4.87  | Pitch rate [º/s]:  0.69  | Yaw rate [º/s]:  0.99
+21:44:48.194 > Loop t1
+21:44:48.194 > Roll rate [º/s]:  -4.85  | Pitch rate [º/s]:  0.64  | Yaw rate [º/s]:  1.05
+21:44:48.245 > Loop t1
+21:44:48.246 > Roll rate [º/s]:  -4.85  | Pitch rate [º/s]:  0.67  | Yaw rate [º/s]:  1.04
+21:44:48.297 > Loop t1
+21:44:48.300 > Roll rate [º/s]:  -4.85  | Pitch rate [º/s]:  0.69  | Yaw rate [º/s]:  0.98
+21:44:48.348 > Loop t1
+21:44:48.351 > Roll rate [º/s]:  -4.89  | Pitch rate [º/s]:  0.70  | Yaw rate [º/s]:  1.05
+21:44:48.400 > Loop t1
+21:44:48.405 > Roll rate [º/s]:  -4.85  | Pitch rate [º/s]:  0.67  | Yaw rate [º/s]:  1.02
+21:44:48.455 > Loop t1
+21:44:48.455 > Roll rate [º/s]:  -4.87  | Pitch rate [º/s]:  0.72  | Yaw rate [º/s]:  1.02
+21:44:48.504 > Loop t1
+21:44:48.506 > Roll rate [º/s]:  -4.85  | Pitch rate [º/s]:  0.67  | Yaw rate [º/s]:  1.01
+21:44:48.556 > Loop t1
+21:44:48.560 > Roll rate [º/s]:  -4.82  | Pitch rate [º/s]:  0.64  | Yaw rate [º/s]:  0.96
+21:44:48.608 > Loop t1
+21:44:48.612 > Roll rate [º/s]:  -4.87  | Pitch rate [º/s]:  0.69  | Yaw rate [º/s]:  1.01
+21:44:48.660 > Loop t1
+21:44:48.662 > Roll rate [º/s]:  -4.89  | Pitch rate [º/s]:  0.69  | Yaw rate [º/s]:  1.07
+21:44:48.712 > Loop t1
+21:44:48.714 > Roll rate [º/s]:  -4.87  | Pitch rate [º/s]:  0.67  | Yaw rate [º/s]:  1.02
+21:44:48.764 > Loop t1
+21:44:48.766 > Roll rate [º/s]:  -4.84  | Pitch rate [º/s]:  0.66  | Yaw rate [º/s]:  1.02
+21:44:48.816 > Loop t1
+21:44:48.818 > Roll rate [º/s]:  -4.85  | Pitch rate [º/s]:  0.73  | Yaw rate [º/s]:  1.02
+21:44:48.868 > Loop t1
+21:44:48.870 > Roll rate [º/s]:  -4.90  | Pitch rate [º/s]:  0.69  | Yaw rate [º/s]:  1.04
+21:44:48.920 > Loop t1
+21:44:48.922 > Roll rate [º/s]:  -4.84  | Pitch rate [º/s]:  0.70  | Yaw rate [º/s]:  1.01
+21:44:48.972 > Loop t1
+21:44:48.974 > Roll rate [º/s]:  -4.84  | Pitch rate [º/s]:  0.66  | Yaw rate [º/s]:  1.04
+21:44:49.024 > Loop t1
+21:44:49.026 > Roll rate [º/s]:  -4.89  | Pitch rate [º/s]:  0.69  | Yaw rate [º/s]:  1.02
+21:44:49.076 > Loop t1
+21:44:49.079 > Roll rate [º/s]:  -4.90  | Pitch rate [º/s]:  0.72  | Yaw rate [º/s]:  1.05
+21:44:49.129 > Loop t1
+21:44:49.131 > Roll rate [º/s]:  -4.87  | Pitch rate [º/s]:  0.67  | Yaw rate [º/s]:  1.01
+21:44:49.180 > Loop t1
+21:44:49.182 > Roll rate [º/s]:  -4.85  | Pitch rate [º/s]:  0.73  | Yaw rate [º/s]:  0.96
+21:44:49.232 > Loop t1
+21:44:49.234 > Roll rate [º/s]:  -4.87  | Pitch rate [º/s]:  0.69  | Yaw rate [º/s]:  1.01
+21:44:49.285 > Loop t1
+21:44:49.286 > Roll rate [º/s]:  -4.92  | Pitch rate [º/s]:  0.66  | Yaw rate [º/s]:  1.11
+21:44:49.336 > Loop t1
+21:44:49.338 > Roll rate [º/s]:  -4.84  | Pitch rate [º/s]:  0.67  | Yaw rate [º/s]:  0.98
+21:44:49.388 > Loop t1
+21:44:49.390 > Roll rate [º/s]:  -4.87  | Pitch rate [º/s]:  0.69  | Yaw rate [º/s]:  1.02
+21:44:49.440 > Loop t1
+21:44:49.442 > Roll rate [º/s]:  -4.87  | Pitch rate [º/s]:  0.69  | Yaw rate [º/s]:  1.13
+21:44:49.492 > Loop t1
+21:44:49.494 > Roll rate [º/s]:  -4.84  | Pitch rate [º/s]:  0.70  | Yaw rate [º/s]:  1.01
+21:44:49.544 > Loop t1
+21:44:49.546 > Roll rate [º/s]:  -4.85  | Pitch rate [º/s]:  0.69  | Yaw rate [º/s]:  0.99
+21:44:49.596 > Loop t1
+21:44:49.598 > Roll rate [º/s]:  -4.87  | Pitch rate [º/s]:  0.69  | Yaw rate [º/s]:  1.05
+21:44:49.648 > Loop t1
+21:44:49.650 > Roll rate [º/s]:  -4.92  | Pitch rate [º/s]:  0.72  | Yaw rate [º/s]:  1.01
+21:44:49.700 > Loop t1
+21:44:49.702 > Roll rate [º/s]:  -4.87  | Pitch rate [º/s]:  0.67  | Yaw rate [º/s]:  1.01
+21:44:49.752 > Loop t1
+21:44:49.754 > Roll rate [º/s]:  -4.87  | Pitch rate [º/s]:  0.66  | Yaw rate [º/s]:  1.07
+21:44:49.804 > Loop t1
+21:44:49.806 > Roll rate [º/s]:  -4.89  | Pitch rate [º/s]:  0.67  | Yaw rate [º/s]:  0.99
+21:44:49.856 > Loop t1
+21:44:49.858 > Roll rate [º/s]:  -4.87  | Pitch rate [º/s]:  0.64  | Yaw rate [º/s]:  1.01
+21:44:49.910 > �Roll rate [º/s]:  -4.85  | Pitch rate [º/s]:  0.69  | Yaw rate [º/s]:  1.02
+21:44:50.032 > ets Jun  8 2016 00:22:57
+21:44:50.034 > 
+21:44:50.034 > rst:0x1 (POWERON_RESET),boot:0x3 (DOWNLOAD_BOOT(UART0/UART1/SDIO_REI_REO_V2))
+21:44:50.041 > waiting for download
+21:44:50.535 >  UU    � �� UU    �� UU    �� UU    �� UU    �� UU    �� UU    �� �      ��      ��      ��      ��      ��      ��      �ets Jun  8 2016 00:22:57
+21:44:50.752 > 
+21:44:50.752 > rst:0x1 (POWERON_RESET),boot:0x3 (DOWNLOAD_BOOT(UART0/UART1/SDIO_REI_REO_V2))
+21:44:50.759 > waiting for download
+21:44:51.606 >   U  UU    ���  UU   ��  UU    ��  UU    �

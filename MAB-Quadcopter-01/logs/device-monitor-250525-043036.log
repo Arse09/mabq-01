@@ -1,0 +1,146 @@
+04:30:36.528 > Rebooting...
+04:30:36.530 > ets Jun  8 2016 00:22:57
+04:30:36.533 > 
+04:30:36.533 > rst:0xc (SW_CPU_RESET),boot:0x13 (SPI_FAST_FLASH_BOOT)
+04:30:36.538 > configsip: 0, SPIWP:0xee
+04:30:36.540 > clk_drv:0x00,q_drv:0x00,d_drv:0x00,cs0_drv:0x00,hd_drv:0x00,wp_drv:0x00
+04:30:36.546 > mode:DIO, clock div:2
+04:30:36.549 > load:0x3fff0030,len:1184
+04:30:36.550 > load:0x40078000,len:13232
+04:30:36.553 > load:0x40080400,len:3028
+04:30:36.555 > entry 0x400805e4
+04:30:36.818 > Setup t0
+04:30:36.819 > Loop t0
+04:30:36.822 > Setup t1
+04:30:36.824 > Loop t1
+04:30:36.828 > Setup t2
+04:30:36.829 > Loop t2
+04:30:36.832 > Setup t1
+04:30:36.834 > Task with requested id not found.
+04:30:36.844 > 
+04:30:36.845 > abort() was called at PC 0x400e2c9b on core 1
+04:30:36.849 > 
+04:30:36.849 > 
+04:30:36.849 > Backtrace: 0x4008364d:0x3ffb20a0 0x40089ab1:0x3ffb20c0 0x4008e945:0x3ffb20e0 0x400e2c9b:0x3ffb2160 0x400e2ce2:0x3ffb2180 0x400e301b:0x3ffb21a0 0x400d20a7:0x3ffb21c0 0x400d2369:0x3ffb21e0 0x400d20f1:0x3ffb2200 0x400d2101:0x3ffb2230 0x400d2185:0x3ffb2250 0x400d230d:0x3ffb2270 0x400d41b9:0x3ffb2290
+  #0  0x4008364d in panic_abort at /home/runner/work/esp32-arduino-lib-builder/esp32-arduino-lib-builder/esp-idf/components/esp_system/panic.c:408
+  #1  0x40089ab1 in esp_system_abort at /home/runner/work/esp32-arduino-lib-builder/esp32-arduino-lib-builder/esp-idf/components/esp_system/esp_system.c:137
+  #2  0x4008e945 in abort at /home/runner/work/esp32-arduino-lib-builder/esp32-arduino-lib-builder/esp-idf/components/newlib/abort.c:46
+  #3  0x400e2c9b in __cxxabiv1::__terminate(void (*)()) at /builds/idf/crosstool-NG/.build/xtensa-esp32-elf/src/gcc/libstdc++-v3/libsupc++/eh_terminate.cc:47
+  #4  0x400e2ce2 in std::terminate() at /builds/idf/crosstool-NG/.build/xtensa-esp32-elf/src/gcc/libstdc++-v3/libsupc++/eh_terminate.cc:57
+  #5  0x400e301b in __cxa_throw at /builds/idf/crosstool-NG/.build/xtensa-esp32-elf/src/gcc/libstdc++-v3/libsupc++/eh_throw.cc:95
+  #6  0x400d20a7 in MABQ::Program::Task::transitionTo(unsigned char) at src/Program.cpp:40 (discriminator 2)
+  #7  0x400d2369 in std::_Function_handler<void (MABQ::Program::Task*), setup()::{lambda(MABQ::Program::Task*)#3}>::_M_invoke(std::_Any_data const&, MABQ::Program::Task*&&) at src/main.cpp:54
+      (inlined by) _M_invoke at /home/arse09/.platformio/packages/toolchain-xtensa-esp32/xtensa-esp32-elf/include/c++/8.4.0/bits/std_function.h:297
+  #8  0x400d20f1 in std::function<void (MABQ::Program::Task*)>::operator()(MABQ::Program::Task*) const at /home/arse09/.platformio/packages/toolchain-xtensa-esp32/xtensa-esp32-elf/include/c++/8.4.0/bits/std_function.h:687
+  #9  0x400d2101 in MABQ::Program::Task::setup() at src/Program.cpp:69
+  #10 0x400d2185 in MABQ::Program::loop() at src/Program.cpp:125
+  #11 0x400d230d in loop() at src/main.cpp:77
+  #12 0x400d41b9 in loopTask(void*) at /home/arse09/.platformio/packages/framework-arduinoespressif32/cores/esp32/main.cpp:50
+
+04:30:36.875 > 
+04:30:36.875 > 
+04:30:36.875 > 
+04:30:36.875 > 
+04:30:37.213 > ELF file SHA256: 90bb6828fb2216f8
+04:30:37.213 > 
+04:30:37.213 > Rebooting...
+04:30:37.213 > ets Jun  8 2016 00:22:57
+04:30:37.213 > 
+04:30:37.213 > rst:0xc (SW_CPU_RESET),boot:0x13 (SPI_FAST_FLASH_BOOT)
+04:30:37.213 > configsip: 0, SPIWP:0xee
+04:30:37.213 > clk_drv:0x00,q_drv:0x00,d_drv:0x00,cs0_drv:0x00,hd_drv:0x00,wp_drv:0x00
+04:30:37.217 > mode:DIO, clock div:2
+04:30:37.219 > load:0x3fff0030,len:1184
+04:30:37.221 > load:0x40078000,len:13232
+04:30:37.224 > load:0x40080400,len:3028
+04:30:37.226 > entry 0x400805e4
+04:30:37.488 > Setup t0
+04:30:37.490 > Loop t0
+04:30:37.493 > Setup t1
+04:30:37.495 > Loop t1
+04:30:37.498 > Setup t2
+04:30:37.500 > Loop t2
+04:30:37.503 > Setup t1
+04:30:37.506 > Task with requested id not found.
+04:30:37.515 > 
+04:30:37.516 > abort() was called at PC 0x400e2c9b on core 1
+04:30:37.520 > 
+04:30:37.520 > 
+04:30:37.520 > Backtrace: 0x4008364d:0x3ffb20a0 0x40089ab1:0x3ffb20c0 0x4008e945:0x3ffb20e0 0x400e2c9b:0x3ffb2160 0x400e2ce2:0x3ffb2180 0x400e301b:0x3ffb21a0 0x400d20a7:0x3ffb21c0 0x400d2369:0x3ffb21e0 0x400d20f1:0x3ffb2200 0x400d2101:0x3ffb2230 0x400d2185:0x3ffb2250 0x400d230d:0x3ffb2270 0x400d41b9:0x3ffb2290
+  #0  0x4008364d in panic_abort at /home/runner/work/esp32-arduino-lib-builder/esp32-arduino-lib-builder/esp-idf/components/esp_system/panic.c:408
+  #1  0x40089ab1 in esp_system_abort at /home/runner/work/esp32-arduino-lib-builder/esp32-arduino-lib-builder/esp-idf/components/esp_system/esp_system.c:137
+  #2  0x4008e945 in abort at /home/runner/work/esp32-arduino-lib-builder/esp32-arduino-lib-builder/esp-idf/components/newlib/abort.c:46
+  #3  0x400e2c9b in __cxxabiv1::__terminate(void (*)()) at /builds/idf/crosstool-NG/.build/xtensa-esp32-elf/src/gcc/libstdc++-v3/libsupc++/eh_terminate.cc:47
+  #4  0x400e2ce2 in std::terminate() at /builds/idf/crosstool-NG/.build/xtensa-esp32-elf/src/gcc/libstdc++-v3/libsupc++/eh_terminate.cc:57
+  #5  0x400e301b in __cxa_throw at /builds/idf/crosstool-NG/.build/xtensa-esp32-elf/src/gcc/libstdc++-v3/libsupc++/eh_throw.cc:95
+  #6  0x400d20a7 in MABQ::Program::Task::transitionTo(unsigned char) at src/Program.cpp:40 (discriminator 2)
+  #7  0x400d2369 in std::_Function_handler<void (MABQ::Program::Task*), setup()::{lambda(MABQ::Program::Task*)#3}>::_M_invoke(std::_Any_data const&, MABQ::Program::Task*&&) at src/main.cpp:54
+      (inlined by) _M_invoke at /home/arse09/.platformio/packages/toolchain-xtensa-esp32/xtensa-esp32-elf/include/c++/8.4.0/bits/std_function.h:297
+  #8  0x400d20f1 in std::function<void (MABQ::Program::Task*)>::operator()(MABQ::Program::Task*) const at /home/arse09/.platformio/packages/toolchain-xtensa-esp32/xtensa-esp32-elf/include/c++/8.4.0/bits/std_function.h:687
+  #9  0x400d2101 in MABQ::Program::Task::setup() at src/Program.cpp:69
+  #10 0x400d2185 in MABQ::Program::loop() at src/Program.cpp:125
+  #11 0x400d230d in loop() at src/main.cpp:77
+  #12 0x400d41b9 in loopTask(void*) at /home/arse09/.platformio/packages/framework-arduinoespressif32/cores/esp32/main.cpp:50
+
+04:30:37.546 > 
+04:30:37.546 > 
+04:30:37.546 > 
+04:30:37.546 > 
+04:30:37.546 > ELF file SHA256: 90bb6828fb2216f8
+04:30:37.915 > 
+04:30:37.915 > Rebooting...
+04:30:37.915 > ets Jun  8 2016 00:22:57
+04:30:37.915 > 
+04:30:37.915 > rst:0xc (SW_CPU_RESET),boot:0x13 (SPI_FAST_FLASH_BOOT)
+04:30:37.915 > configsip: 0, SPIWP:0xee
+04:30:37.915 > clk_drv:0x00,q_drv:0x00,d_drv:0x00,cs0_drv:0x00,hd_drv:0x00,wp_drv:0x00
+04:30:37.915 > mode:DIO, clock div:2
+04:30:37.915 > load:0x3fff0030,len:1184
+04:30:37.915 > load:0x40078000,len:13232
+04:30:37.915 > load:0x40080400,len:3028
+04:30:37.915 > entry 0x400805e4
+04:30:38.144 > Setup t0
+04:30:38.145 > Loop t0
+04:30:38.149 > Setup t1
+04:30:38.150 > Loop t1
+04:30:38.154 > Setup t2
+04:30:38.156 > Loop t2
+04:30:38.159 > Setup t1
+04:30:38.160 > Task with requested id not found.
+04:30:38.170 > 
+04:30:38.171 > abort() was called at PC 0x400e2c9b on core 1
+04:30:38.175 > 
+04:30:38.175 > 
+04:30:38.175 > Backtrace: 0x4008364d:0x3ffb20a0 0x40089ab1:0x3ffb20c0 0x4008e945:0x3ffb20e0 0x400e2c9b:0x3ffb2160 0x400e2ce2:0x3ffb2180 0x400e301b:0x3ffb21a0 0x400d20a7:0x3ffb21c0 0x400d2369:0x3ffb21e0 0x400d20f1:0x3ffb2200 0x400d2101:0x3ffb2230 0x400d2185:0x3ffb2250 0x400d230d:0x3ffb2270 0x400d41b9:0x3ffb2290
+  #0  0x4008364d in panic_abort at /home/runner/work/esp32-arduino-lib-builder/esp32-arduino-lib-builder/esp-idf/components/esp_system/panic.c:408
+  #1  0x40089ab1 in esp_system_abort at /home/runner/work/esp32-arduino-lib-builder/esp32-arduino-lib-builder/esp-idf/components/esp_system/esp_system.c:137
+  #2  0x4008e945 in abort at /home/runner/work/esp32-arduino-lib-builder/esp32-arduino-lib-builder/esp-idf/components/newlib/abort.c:46
+  #3  0x400e2c9b in __cxxabiv1::__terminate(void (*)()) at /builds/idf/crosstool-NG/.build/xtensa-esp32-elf/src/gcc/libstdc++-v3/libsupc++/eh_terminate.cc:47
+  #4  0x400e2ce2 in std::terminate() at /builds/idf/crosstool-NG/.build/xtensa-esp32-elf/src/gcc/libstdc++-v3/libsupc++/eh_terminate.cc:57
+  #5  0x400e301b in __cxa_throw at /builds/idf/crosstool-NG/.build/xtensa-esp32-elf/src/gcc/libstdc++-v3/libsupc++/eh_throw.cc:95
+  #6  0x400d20a7 in MABQ::Program::Task::transitionTo(unsigned char) at src/Program.cpp:40 (discriminator 2)
+  #7  0x400d2369 in std::_Function_handler<void (MABQ::Program::Task*), setup()::{lambda(MABQ::Program::Task*)#3}>::_M_invoke(std::_Any_data const&, MABQ::Program::Task*&&) at src/main.cpp:54
+      (inlined by) _M_invoke at /home/arse09/.platformio/packages/toolchain-xtensa-esp32/xtensa-esp32-elf/include/c++/8.4.0/bits/std_function.h:297
+  #8  0x400d20f1 in std::function<void (MABQ::Program::Task*)>::operator()(MABQ::Program::Task*) const at /home/arse09/.platformio/packages/toolchain-xtensa-esp32/xtensa-esp32-elf/include/c++/8.4.0/bits/std_function.h:687
+  #9  0x400d2101 in MABQ::Program::Task::setup() at src/Program.cpp:69
+  #10 0x400d2185 in MABQ::Program::loop() at src/Program.cpp:125
+  #11 0x400d230d in loop() at src/main.cpp:77
+  #12 0x400d41b9 in loopTask(void*) at /home/arse09/.platformio/packages/framework-arduinoespressif32/cores/esp32/main.cpp:50
+
+04:30:38.201 > 
+04:30:38.201 > 
+04:30:38.201 > 
+04:30:38.552 > 
+04:30:38.552 > ELF file SHA256: 90bb6828fb2216f8
+04:30:38.552 > 
+04:30:38.552 > Rebooting...
+04:30:38.552 > ets Jun  8 2016 00:22:57
+04:30:38.552 > 
+04:30:38.552 > rst:0xc (SW_CPU_RESET),boot:0x13 (SPI_FAST_FLASH_BOOT)
+04:30:38.552 > configsip: 0, SPIWP:0xee
+04:30:38.552 > clk_drv:0x00,q_drv:0x00,d_drv:0x00,cs0_drv:0x00,hd_drv:0x00,wp_drv:0x00
+04:30:38.552 > mode:DIO, clock div:2
+04:30:38.554 > load:0x3fff0030,len:1184
+04:30:38.556 > load:0x40078000,len:13232
+04:30:38.558 > load:0x40080400,len:3028
+04:30:38.561 > entry 0x400805e4

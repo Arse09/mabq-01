@@ -1,0 +1,4 @@
+19:25:33.905 > ets Jun  8 2016 00:22:57
+19:25:33.907 > 
+19:25:33.907 > rst:0x1 (POWERON_RESET),boot:0x3 (DOWNLOAD_BOOT(UART0/UART1/SDIO_REI_REO_V2))
+19:25:33.914 > waiting for download

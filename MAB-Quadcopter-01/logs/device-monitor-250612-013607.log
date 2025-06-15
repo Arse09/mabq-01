@@ -1,0 +1,4 @@
+01:36:09.173 > Setup t0
+01:36:09.173 > Desired roll:  0.00  | Desired pitch:  0.00  | Desired yaw:  0.00  | Desired throttle:  0.00
+01:36:09.173 > Setup t1
+01:36:09.173 > [    26][E][esp32-hal-i2c.c:255] i2cSetClock(): could not acquire lock
